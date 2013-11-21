@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	{% load static %}
+	<link rel="stylesheet" href="{{STATIC_URL}}reset.css" />
+	<link rel="stylesheet" href="{{STATIC_URL}}text.css" />
+	<link rel="stylesheet" href="{{STATIC_URL}}960_12_col.css" />
+	<link rel="stylesheet" href="{{STATIC_URL}}style.css" />
+	<title>{% block title %}Skylight Productions {% endblock %}</title>
+</head>
+
+<body class="container_12">
+	<div id="sidebar">
+		{% block sidebar %}
+		<ul>
+			<li><a href={% url "article_list" %}>All Articles</a></li>
+		</ul>
+		{% endblock %}
+	</div>
+	<div id="content" class="grid_12">
+		{% block content %} 
+		
+		{% endblock %}
+
+			<img src="{% static "poop/images/image.png" %}" />
+	</div>
+</body>
+</html>

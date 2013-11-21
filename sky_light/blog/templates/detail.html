@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %} Upcoming Events {% endblock %}
+
+{% block content %}
+	<h2>My Blog</h2>	
+			<h3>{{ article }}</h3>
+			<ul>
+				<div class="time"><li>{{ article.created }}</li></div>
+				<div class="body"><li>{{ article.body }}</li></div>
+				<p>These are the comments</p>
+				{{ article.comments.items }}
+				{{ comments }}
+				<ul>
+					{% for comment in article.comments.all %}
+						<div class="comment author"><li>{{ comment.author }}</li></div>
+						<div class="comment date"><li>{{ comment.created }}</li></div>
+						<div class="comment body"><li>{{ comment.body }}</li></div>
+
+						<ul>
+							{% for rebutt in comment.rebutts.all %}
+							<li> {{ rebutt.author }} </li>
+							<li> {{ rebutt.created }} </li>
+							<li> {{ rebutt.body }} </li>
+							{% endfor %}
+						</ul>
+					{% endfor %}
+				</ul>
+			</ul>
+			<a href={% url "comment_form" article.id %}>Add a comment</a>
+{% endblock %}

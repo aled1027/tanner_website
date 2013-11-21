@@ -1,0 +1,26 @@
+<!-- gets a list of events called 'object_list' or 'event_list'.. I guess it gives both-->
+
+{% extends "base.html" %}
+
+{% block title %}My Blog{% endblock %}
+
+{% block content %}
+	<h2>My Blog</h2>	
+	<ul>
+	{% for article in article_list %}
+		<li>
+		<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> <!-- should link to original url of article -->
+			<ul>
+				<div class="time"><li>{{ article.created }}</li></div>
+				<div class="body"><li>{{ article.body }}</li></div>
+				<div class="commentlink"><li>Comments {{ article.comments.count }}</li></div>
+				<div class="upvotes"><li>Upvotes {{ article.upvotes }} </li></div>
+
+				{% for comment in article.comments.all %}
+					<div class="commentlink"><li> {{ comment }}</li></div>
+				{% endfor %}
+			</ul>
+		</li>
+	{% endfor %}
+	</ul>
+{% endblock %}

@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %} Upcoming Events {% endblock %}
+
+{% block content %}
+<h1> {{ form }} </h1>
+	<h2>A comment page </h2>	
+			<h3>{{ comment }}</h3>
+			<ul>
+				<div class="author"><li>{{ comment.author }}</li></div>
+				<div class="time"><li>{{ comment.created }}</li></div>
+				<div class="body"><li>{{ comment.body }}</li></div>
+			</ul>
+		<h3>
+			<p> Write a rebuttal </p>
+			<a href={% url "rebutt_form" comment.id %}>Write a new rebutt!</a>
+		</h3>
+{% endblock %}
