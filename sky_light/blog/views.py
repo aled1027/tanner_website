@@ -14,7 +14,7 @@ from django.http import Http404
 
 def articleListView(request):
 	args = {}
-	#args.update(csrf(request))
+	args.update(csrf(request))
 	args['articles'] = Article.objects.all()
 	return render(request, "list.html", args)
 
@@ -77,13 +77,13 @@ def rebuttFormView(request, r_id=None):
 		form = MembershipForm(instance=r)
 		return render(request, 'article_form.html', {'form': form})
 
-#def search_articles(request):
-#	if request.method == 'POST':
-#		search_text = request.Post['search_text']
-#	else: 
-#		search_text = ''
-#	articles = Article.objects.filter(title__contains==search_text)
-#	return render(request, 'ajax_search.html', {'articles': articles})
-#
+def search_articles(request):
+	if request.method == 'POST':
+		search_text = request.Post['search_text']
+	else: 
+		search_text = ''
+	articles = Article.objects.filter(title__contains==search_text)
+	return render(request, 'ajax_search.html', {'articles': articles})
+
 
 
