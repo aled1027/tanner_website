@@ -79,10 +79,10 @@ def rebuttFormView(request, r_id=None):
 
 def search_articles(request):
 	if request.method == 'POST':
-		search_text = request.Post['search_text']
+		search_text = request.POST['search_text']
 	else: 
 		search_text = ''
-	articles = Article.objects.filter(title__contains==search_text)
+	articles = Article.objects.filter(title__contains=search_text)
 	return render(request, 'ajax_search.html', {'articles': articles})
 
 

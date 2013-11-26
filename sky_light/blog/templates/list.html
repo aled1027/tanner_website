@@ -5,9 +5,20 @@
 {% block title %}My Blog{% endblock %}
 
 {% block content %}
+
 	<h2>My Blog</h2>	
+
+	<h3> Search </h3>
+	{% csrf_token %}
+	<input type="text" id="search" name="search">
+	
+	<ul id="search-results">
+
+	</ul>
+
+
 	<ul>
-	{% for article in article_list %}
+	{% for article in articles %}
 		<li>
 		<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> <!-- should link to original url of article -->
 			<ul>

@@ -3,10 +3,9 @@
 <html lang="en">
 <head>
 	{% load static %}
-	<link rel="stylesheet" href="{{STATIC_URL}}reset.css" />
-	<link rel="stylesheet" href="{{STATIC_URL}}text.css" />
-	<link rel="stylesheet" href="{{STATIC_URL}}960_12_col.css" />
-	<link rel="stylesheet" href="{{STATIC_URL}}style.css" />
+	<link rel="stylesheet" href="{% static "assets/css/default.css" %}">
+	<script src="{% static "assets/js/jquery-2.0.0.min.js" %}"></script>
+	<script src="{% static "assets/js/ajax.js" %}"></script>
 	<title>{% block title %}Skylight Productions {% endblock %}</title>
 </head>
 
@@ -14,7 +13,7 @@
 	<div id="sidebar">
 		{% block sidebar %}
 		<ul>
-			<li><a href={% url "article_list" %}>All Articles</a></li>
+			<li><a href="{% url "article_list" %}">All Articles</a></li>
 		</ul>
 		{% endblock %}
 	</div>
@@ -23,7 +22,7 @@
 		
 		{% endblock %}
 
-			<img src="{% static "poop/images/image.png" %}" />
+			<img src="{% static "assets/images/image.png" %}" />
 	</div>
 </body>
 </html>
