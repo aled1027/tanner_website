@@ -1,24 +1,27 @@
+Overall to do:
+	Get articles via scraping
+	Cookies
+	CSS
+	More javascript
+
 To use south:
 	python manage.py schemamigration [app-name] --auto
 	python manage.py migrate [app-name]
 
-Overall to do:
-	Get articles via scraping
-	Get users involved - can use some add that I saved as a bookmark. 
-	Users
-	Cookies/user sessions
-
-
 Add in plugins..
 	Formatter.js
 		https://github.com/firstopinion/formatter.js
-	tracking badges/awwards
+	tracking badges/awards
 		http://blog.lmorchard.com/2013/02/23/looking-for-a-django-app-to-manage-roles-within-groups
 		https://github.com/lmorchard/django-badger
 	django-facebook
 		https://www.djangopackages.com/packages/p/django-facebook/
-	Pinax
-		users
+	djang-bootstrap-toolkit
+		can use pip install
+
+git add .
+git commit
+git push origin master
 
 	
 		

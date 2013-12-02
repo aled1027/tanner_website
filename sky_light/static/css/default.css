@@ -1,1 +1,11 @@
-stuff
+.sidebar {
+	margin-top: 10%;
+}
+.ul {
+	list-style: none;
+}
+#search {
+	margin-left: 5%;
+	width: 100px;
+}
+

@@ -10,4 +10,5 @@ urlpatterns = patterns("",
 	url(r'^create-comment/(?P<pk>\d+)/$', commentFormView, {}, "comment_form"),
 	url(r'^create-rebuttal/(?P<pk>\d+)/$', rebuttFormView, {}, "rebutt_form"),
 	url(r'^search/$', search_articles, {}, "search_articles"),
+	url(r'^search/$', searchPageView, {}, "search_page"),
 )

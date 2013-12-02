@@ -4,25 +4,41 @@
 <head>
 	{% load static %}
 	<link rel="stylesheet" href="{% static "assets/css/default.css" %}">
+	<link href="{% static "assets/css/bootstrap.min.css" %}" rel="stylesheet" media="screen">
 	<script src="{% static "assets/js/jquery-2.0.0.min.js" %}"></script>
 	<script src="{% static "assets/js/ajax.js" %}"></script>
+	<script src="{% static "js/bootstrap.min.js" %}"></script>
+	<script src="http://code.jquery.com/jquery.js"></script>
+
+
 	<title>{% block title %}Skylight Productions {% endblock %}</title>
 </head>
-
-<body class="container_12">
-	<div id="sidebar">
+<body>
+<div class="row">
+	<div class="span12">
+		{% block top_title %}
+			<img src="{% static "assets/images/clouds.jpg" %}" />
+		{% endblock top_title %}
+	</div>
+</div>
+	<div class="row">
+	<div class="span2 sidebar">
 		{% block sidebar %}
 		<ul>
 			<li><a href="{% url "article_list" %}">All Articles</a></li>
+			<li><a href="{% url "search_page" %}">Search Page</a></li>
 		</ul>
 		{% endblock %}
 	</div>
-	<div id="content" class="grid_12">
+
+
+	<div class="span10">
 		{% block content %} 
 		
 		{% endblock %}
-
-			<img src="{% static "assets/images/image.png" %}" />
 	</div>
+
+	</div>
+</div>
 </body>
 </html>

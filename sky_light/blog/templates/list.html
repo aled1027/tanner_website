@@ -4,23 +4,30 @@
 
 {% block title %}My Blog{% endblock %}
 
-{% block content %}
 
-	<h2>My Blog</h2>	
+<h2>My Blog</h2>	
 
-	<h3> Search </h3>
+
+{% block sidebar %}
+	Search
 	{% csrf_token %}
 	<input type="text" id="search" name="search">
-	
+		
 	<ul id="search-results">
-
 	</ul>
+	{{ block.super }}
+{% endblock %}
 
 
-	<ul>
+{% block content %}
+
+<ul>
+<div class="row">
+<div class="span4">
 	{% for article in articles %}
 		<li>
-		<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> <!-- should link to original url of article -->
+		<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> </h3>
+			<h4>
 			<ul>
 				<div class="time"><li>{{ article.created }}</li></div>
 				<div class="body"><li>{{ article.body }}</li></div>
@@ -31,7 +38,10 @@
 					<div class="commentlink"><li> {{ comment }}</li></div>
 				{% endfor %}
 			</ul>
+		</h4>
 		</li>
 	{% endfor %}
-	</ul>
+</div>
+</div>
+</ul>
 {% endblock %}

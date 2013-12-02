@@ -85,5 +85,8 @@ def search_articles(request):
 	articles = Article.objects.filter(title__contains=search_text)
 	return render(request, 'ajax_search.html', {'articles': articles})
 
+def searchPageView(request):
+	# Need to actually make this. 
+	return render(request, 'search_page.html', {});
 
 
