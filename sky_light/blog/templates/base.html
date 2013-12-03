@@ -1,44 +1,47 @@
 <!DOCTYPE html>
 
 <html lang="en">
+{% load static %}
 <head>
-	{% load static %}
-	<link rel="stylesheet" href="{% static "assets/css/default.css" %}">
-	<link href="{% static "assets/css/bootstrap.min.css" %}" rel="stylesheet" media="screen">
+	<!--	<link rel="stylesheet" href="{% static "assets/css/reset.css" %}"> -->
+	<link rel="stylesheet" href="{% static "assets/css/bootstrap.min.css" %}" media="screen">
+	<link rel="stylesheet" href="{% static "assets/css/default.css" %}" media="screen">
 	<script src="{% static "assets/js/jquery-2.0.0.min.js" %}"></script>
 	<script src="{% static "assets/js/ajax.js" %}"></script>
 	<script src="{% static "js/bootstrap.min.js" %}"></script>
 	<script src="http://code.jquery.com/jquery.js"></script>
-
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script src="{% static "assets/js/jquery.slides.min.js" %}"></script>
+	<script src="{% static "assets/js/my-slides-js.js" %}"></script>
 
 	<title>{% block title %}Skylight Productions {% endblock %}</title>
 </head>
 <body>
-<div class="row">
+	<div class="header-images-div span12"> 
+		<!--<td style="background: url("{% static "assets/images/green.png" %}") no-repeat);"> -->
+			<p> pic here </p>
+		</div>
+<div class="row all">
 	<div class="span12">
-		{% block top_title %}
-			<img src="{% static "assets/images/clouds.jpg" %}" />
-		{% endblock top_title %}
+		<div class="top_title">
+			{% block top_title %}
+			{% endblock top_title %}
+		</div>
+	<div class="row">
+		<div class="span2 sidebar">
+			{% block sidebar %}
+			<ul class="sidebar-links">
+				<li><a href="{% url "article_list" %}">All Articles</a></li>
+				<li><a href="{% url "search_page" %}">Search Page</a></li>
+			</ul>
+			{% endblock %}
+		</div>
+		<div class="span10 content">
+			{% block content %} 
+			{% endblock %}
+		</div>
 	</div>
 </div>
-	<div class="row">
-	<div class="span2 sidebar">
-		{% block sidebar %}
-		<ul>
-			<li><a href="{% url "article_list" %}">All Articles</a></li>
-			<li><a href="{% url "search_page" %}">Search Page</a></li>
-		</ul>
-		{% endblock %}
-	</div>
-
-
-	<div class="span10">
-		{% block content %} 
-		
-		{% endblock %}
-	</div>
-
-	</div>
 </div>
 </body>
 </html>

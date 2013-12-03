@@ -2,6 +2,7 @@ from django.conf.urls import *
 from blog.views import *
 
 urlpatterns = patterns("",
+	url(r'^$', homeView, {}, "home"),
 	url(r'^article-list/$', articleListView, {}, "article_list"),
 	url(r'^article-detail/(?P<pk>\d+)/$', articleDetailView, {}, "article_detail"),
 	url(r'^comment-detail/(?P<pk>\d+)/$', commentDetailView, {}, "comment_detail"),

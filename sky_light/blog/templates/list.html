@@ -1,5 +1,3 @@
-<!-- gets a list of events called 'object_list' or 'event_list'.. I guess it gives both-->
-
 {% extends "base.html" %}
 
 {% block title %}My Blog{% endblock %}
@@ -9,39 +7,80 @@
 
 
 {% block sidebar %}
-	Search
+	<p>Search</p>
 	{% csrf_token %}
 	<input type="text" id="search" name="search">
-		
 	<ul id="search-results">
 	</ul>
 	{{ block.super }}
 {% endblock %}
 
 
+<!-- content is in a span10 class -->
 {% block content %}
-
-<ul>
 <div class="row">
-<div class="span4">
-	{% for article in articles %}
+<ul>
+	<div class="span3 list-col">
+		{% for article in articles1 %}
 		<li>
-		<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> </h3>
+			<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> </h3>
 			<h4>
-			<ul>
-				<div class="time"><li>{{ article.created }}</li></div>
-				<div class="body"><li>{{ article.body }}</li></div>
-				<div class="commentlink"><li>Comments {{ article.comments.count }}</li></div>
-				<div class="upvotes"><li>Upvotes {{ article.upvotes }} </li></div>
+				<ul>
+					<div class="time"><li>{{ article.created }}</li></div>
+					<div class="body"><li>{{ article.body }}</li></div>
+					<div class="commentlink"><li>Comments {{ article.comments.count }}</li></div>
+					<div class="upvotes"><li>Upvotes {{ article.upvotes }} </li></div>
 
-				{% for comment in article.comments.all %}
-					<div class="commentlink"><li> {{ comment }}</li></div>
-				{% endfor %}
-			</ul>
-		</h4>
+					{% for comment in article.comments.all %}
+						<li> {{ comment }}</li>
+					{% endfor %}
+				</ul>
+			</h4>
 		</li>
-	{% endfor %}
-</div>
-</div>
+		{% endfor %}
+	</div>
+
+	<div class="span3 list">
+		{% for article in articles2 %}
+		<li>
+			<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> </h3>
+			<h4>
+				<ul>
+					<div class="time"><li>{{ article.created }}</li></div>
+					<div class="body"><li>{{ article.body }}</li></div>
+					<div class="commentlink"><li>Comments {{ article.comments.count }}</li></div>
+					<div class="upvotes"><li>Upvotes {{ article.upvotes }} </li></div>
+
+					{% for comment in article.comments.all %}
+						<li> {{ comment }}</li>
+					{% endfor %}
+				</ul>
+			</h4>
+		</li>
+		{% endfor %}
+	</div>
+
+	<div class="span3 list">
+		{% for article in articles3 %}
+		<li>
+			<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> </h3>
+			<h4>
+				<ul>
+					<div class="time"><li>{{ article.created }}</li></div>
+					<div class="body"><li>{{ article.body }}</li></div>
+					<div class="commentlink"><li>Comments {{ article.comments.count }}</li></div>
+					<div class="upvotes"><li>Upvotes {{ article.upvotes }} </li></div>
+
+					{% for comment in article.comments.all %}
+						<li> {{ comment }}</li>
+					{% endfor %}
+				</ul>
+			</h4>
+		</li>
+		{% endfor %}
+	</div>
+
+
 </ul>
+</div>
 {% endblock %}

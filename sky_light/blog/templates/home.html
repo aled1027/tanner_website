@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% load static %}
+
+
+{% block title %} Nananana Batman! {% endblock %}
+{% block top_title %}
+	<h2>Nanananana Batman! You're at the homepage!!!</h2>	
+{% endblock top_title %}
+
+{% block content %}
+<p> and here's the content: </p>
+	<div id="slides">
+		<img src="{% static "assets/images/green.png" %}">
+		<img src="{% static "assets/images/clouds.jpg" %}">
+	</div>
+
+{% endblock %}

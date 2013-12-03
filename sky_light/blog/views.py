@@ -12,10 +12,27 @@ from django.utils.decorators import method_decorator
 from django.shortcuts import render
 from django.http import Http404
 
+def homeView(request):
+	args = {}
+	return render(request, "home.html", args)
+
 def articleListView(request):
 	args = {}
 	args.update(csrf(request))
-	args['articles'] = Article.objects.all()
+	arts = []
+	arts = list(Article.objects.all())
+	args['articles1'] = []
+	args['articles2'] = []
+	args['articles3'] = []
+	for x in range(0, len(arts)):
+		if (x%3) == 0:
+			args['articles1'].append(arts[x])
+		if (x%3) == 1:
+			args['articles2'].append(arts[x])
+		if (x%3) == 2:
+			args['articles3'].append(arts[x])
+
+
 	return render(request, "list.html", args)
 
 def articleDetailView(request, pk):  #successful!
