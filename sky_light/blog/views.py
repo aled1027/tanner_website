@@ -11,15 +11,20 @@ from django.contrib.auth.decorators import login_required
 from django.utils.decorators import method_decorator
 from django.shortcuts import render
 from django.http import Http404
+from getArticle import *
+from goose import Goose
 
 def homeView(request):
 	args = {}
 	return render(request, "home.html", args)
 
 def articleListView(request):
+	updateArticles()
 	args = {}
 	args.update(csrf(request))
 	arts = []
+
+    # probably remove the all -- only get 21 articles or so.
 	arts = list(Article.objects.all())
 	args['articles1'] = []
 	args['articles2'] = []
@@ -36,7 +41,7 @@ def articleListView(request):
 	return render(request, "list.html", args)
 
 def articleDetailView(request, pk):  #successful!
-	try: 
+	try:
 		a = Article.objects.get(pk=pk)
 	except Article.DoesNotExist:
 		raise Http404
@@ -97,13 +102,23 @@ def rebuttFormView(request, r_id=None):
 def search_articles(request):
 	if request.method == 'POST':
 		search_text = request.POST['search_text']
-	else: 
+	else:
 		search_text = ''
 	articles = Article.objects.filter(title__contains=search_text)
 	return render(request, 'ajax_search.html', {'articles': articles})
 
 def searchPageView(request):
-	# Need to actually make this. 
+	# Need to actually make this.
 	return render(request, 'search_page.html', {});
+
+def updateArticles():
+    # 1. get a list of urls of articles
+	urls = []
+	url = 'http://www.politico.com/story/2014/01/chris-christie-bridgegate-questions-102066.html?hp=t1'
+	urls.append(url)
+	# 2. get articles associated with urls and save as we go
+	for url in urls:
+		addArticleFromGoose(url) # in models.py
+
 
 

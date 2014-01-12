@@ -1,8 +1,13 @@
 Overall to do:
+	Fix search feature -- it's only present on the /blog/articles aka list.html
 	Get articles via scraping
+		1. get article from a single url
+		2. get a bunch of urls
 	Cookies
-	CSS
-	More javascript
+	Appearance:
+		Improve CSS
+		More javascript
+
 
 To use south:
 	python manage.py schemamigration [app-name] --auto

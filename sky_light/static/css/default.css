@@ -23,9 +23,6 @@ body {
 
 
 }
-.sidebar-links  a:hover{
-	text-shadow: 1px 1px blue;
-}
 
 #search {
 	width: 100px;

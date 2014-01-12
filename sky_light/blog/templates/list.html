@@ -26,8 +26,8 @@
 			<h3><a href={% url "article_detail" article.id %}>{{ article }}</a><h3> </h3>
 			<h4>
 				<ul>
-					<div class="time"><li>{{ article.created }}</li></div>
-					<div class="body"><li>{{ article.body }}</li></div>
+					<div class="time"><li>{{ article.publish_date }}</li></div>
+					<div class="body"><li>{{ article.bodySummary }}</li></div>
 					<div class="commentlink"><li>Comments {{ article.comments.count }}</li></div>
 					<div class="upvotes"><li>Upvotes {{ article.upvotes }} </li></div>
 
