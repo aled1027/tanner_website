@@ -1,3 +1,6 @@
+import urllib2
+from BeautifulSoup import BeautifulSoup
+import bs4
 from goose import Goose
 
 def getArticle(url):
@@ -18,8 +21,25 @@ def getArticle(url):
 	print article.domain
 	# print article.author
 
+def getURLS(url):
+	urls = []
+	page = urllib2.urlopen(url).read()
+	soup = bs4.BeautifulSoup(page)
+	#print_link = soup.findAll('a')[0].get('href')
+	#print print_link
+	print ""
+
+	soup.prettify()
+	res1 = soup.findAll("a", href=True)
+	res2 = []
+	for a in res1:
+		if "story" in a['href']:
+			res2.append(a)
+	for a in res2:
+		print a['href']
+	print len(res2)
 
 
-#url = 'http://globalpublicsquare.blogs.cnn.com/2014/01/11/why-iraq-is-in-turmoil/?hpt=wo_c2'
-url = "http://www.politico.com/story/2014/01/chris-christie-bridgegate-questions-102066.html?hp=t1"
-getArticle(url)
+
+url = "http://www.politico.com/pages/elections"
+getURLS(url)

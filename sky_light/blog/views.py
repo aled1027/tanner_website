@@ -9,17 +9,18 @@ from django.views.generic.edit import FormView, UpdateView, CreateView
 from django.views.generic.detail import DetailView
 from django.contrib.auth.decorators import login_required
 from django.utils.decorators import method_decorator
+from django.core.urlresolvers import reverse
+from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.http import Http404
 from getArticle import *
-from goose import Goose
 
 def homeView(request):
 	args = {}
 	return render(request, "home.html", args)
 
 def articleListView(request):
-	updateArticles()
+	addArticlesFromGoose(5)
 	args = {}
 	args.update(csrf(request))
 	arts = []
@@ -71,7 +72,7 @@ def commentDetailView(request, pk):
 	# also check out form sets for multiple forms on a page
 	return render(request, "comment_detail.html", {'comment': c, 'form': f})
 
-def commentFormView(request, c_id=None):
+def commentFormView(request, a_id = None, c_id=None):
 	if c_id:
 		c = Comment.objects.get(pk=c_id)
 	else:
@@ -79,11 +80,13 @@ def commentFormView(request, c_id=None):
 	if request.method == 'POST':
 		form = CommentForm(request.POST, request.FILES)
 		if form.is_valid():
-			form.save
-			return HttpResponseRedirect(reverse('comment-detail', args=[form.comment.id]))
+			comment = form.save(commit=False)
+			comment.article = get_object_or_404(Article, pk=a_id)
+			comment.save()
+			return HttpResponseRedirect(reverse('article_detail', args=[a_id]))
 	else:
-		form = MembershipForm(instance=c)
-		return render(request, 'article_form.html', {'form': form})
+		form = CommentForm(instance=c)
+		return render(request, 'comment_form.html', {'form': form})
 
 def rebuttFormView(request, r_id=None):
 	if r_id:
@@ -110,15 +113,6 @@ def search_articles(request):
 def searchPageView(request):
 	# Need to actually make this.
 	return render(request, 'search_page.html', {});
-
-def updateArticles():
-    # 1. get a list of urls of articles
-	urls = []
-	url = 'http://www.politico.com/story/2014/01/chris-christie-bridgegate-questions-102066.html?hp=t1'
-	urls.append(url)
-	# 2. get articles associated with urls and save as we go
-	for url in urls:
-		addArticleFromGoose(url) # in models.py
 
 
 

@@ -1,8 +1,11 @@
 Overall to do:
 	Fix search feature -- it's only present on the /blog/articles aka list.html
-	Get articles via scraping
-		1. get article from a single url
-		2. get a bunch of urls
+	Articles via scraping - 
+		gets articles from different areas of politico
+			fix this: articles of same categories are clumped together
+		figure out how we want to update the database
+			^ not on a queue from user, but something server side
+			maybe on a timer, like on the hour
 	Cookies
 	Appearance:
 		Improve CSS
@@ -32,3 +35,6 @@ git push origin master
 		
 remember licenses...
 	SlidesJS
+requirements beyond requirements.txt
+	lxml
+	urllib2

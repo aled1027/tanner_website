@@ -6,9 +6,11 @@
 	<h2>My Blog</h2>	
 			<h3>{{ article }}</h3>
 			<ul>
-				<div class="time"><li>{{ article.created }}</li></div>
+				{% if article.publish_date %} <div class="time"><li>{{ article.publish_date }}</li></div> {% endif %}
 				<div class="body"><li>{{ article.body }}</li></div>
-				<p>These are the comments</p>
+				<div class=""><li><a href="{{ article.url }}">Link to original article </a></li></div>
+				{% if article.author %} <div class=""><li>{{ article.author }}</li></div> {% endif %}
+				<p>Comments:</p>
 				{{ article.comments.items }}
 				{{ comments }}
 				<ul>

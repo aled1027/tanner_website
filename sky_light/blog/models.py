@@ -5,11 +5,12 @@ from django.contrib import admin
 from django.core.mail import send_mail
 from taggit.managers import TaggableManager
 from goose import Goose
+import bs4Mod
 
 
 class Article(models.Model):
 	#this needs to be changed ot the current user
-	title = CharField(max_length=60)
+	title = CharField(max_length=60, unique=True)
 	author = CharField(max_length=60, blank=True)
 	source = CharField(max_length=60)
 	body = TextField(blank=True)
@@ -18,7 +19,7 @@ class Article(models.Model):
 	downvotes = IntegerField(default=0)
 	added = DateTimeField(auto_now_add=True)
 	publish_date = DateTimeField(blank=True)
-	url = CharField(max_length=1000, blank=True)
+	url = CharField(max_length=1000, blank=True, unique=True)
 	tags = TaggableManager()
 
 	class Meta:
@@ -27,25 +28,34 @@ class Article(models.Model):
 	def __unicode__(self):
 		return self.title
 
-def addArticleFromGoose(url):
-	# ADD THIS -- make sure that each article is a valid article
-		# ADD THIS -- check if article/url already exists in database
-	try:
-		obj = Article.objects.get(url=url)
-	except:
-		g = Goose()
+def addArticlesFromGoose(numArticles = 5):
+	# numArticles = number of articles to add
+	urls = bs4Mod.getURLS(numArticles)
+	artList = []
+	g = Goose()
+	for url in urls:
 		a = g.extract(url=url)
-		new = Article(
-				url = url,
-				title = a.title,
-				source = a.domain, # actually gives www.politico.com eg
-				body = a.cleaned_text,
-				bodySummary = a.cleaned_text[:200],
-				publish_date = a.publish_date,
-				)
-				# FIX THIS -- PARSE TAGS FOR TAGGALBEMANAGER
-				# tags = a.tags, # could also add meta_keywords, difference depends on site
-		new.save()
+		try:
+			obj = Article.objects.get(title=a.title)
+			if obj is None:
+				raise
+		except:
+			# check if article/url is valid
+			if not (len(a.cleaned_text) > 0):
+				return
+			# now save it. FIX THIS -- make it a bulked query; see notes.txt
+			new = Article(
+					url = url,
+					title = a.title,
+					source = a.domain, # actually gives www.politico.com eg
+					body = a.cleaned_text,
+					bodySummary = a.cleaned_text[:200],
+					publish_date = a.publish_date,
+					)
+					# FIX THIS -- PARSE TAGS FOR TAGGALBEMANAGER
+					# tags = a.tags, # could also add meta_keywords, difference depends on site
+			artList.append(new)
+	Article.objects.bulk_create(artList)
 
 class Comment(models.Model):
 	#this needs to be changed to current user

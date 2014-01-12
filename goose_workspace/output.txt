@@ -1,0 +1,1369 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]&gt;	&lt;html class="ie6" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"&gt; &lt;![endif]-->
+<!--[if IE 7 ]&gt;		&lt;html class="ie7" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"&gt; &lt;![endif]-->
+<!--[if IE 8 ]&gt;		&lt;html class="ie8" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"&gt; &lt;![endif]-->
+<!--[if (gte IE 9)|!(IE)]&gt;&lt;!-->
+<html xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+ <!--&lt;![endif]-->
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>
+   Elections: Photos, Videos &amp; Latest News about Elections - POLITICO.com
+  </title>
+  <link rel="alternate" type="application/rss+xml" title="POLITICO - Top Stories [RSS]" href="http://www.politico.com/rss/politicopicks.xml" />
+  <link rel="alternate" type="application/rss+xml" title="POLITICO - POLITICO 44 [RSS]" href="http://www.politico.com/rss/Politico44box.xml" />
+  <link rel="alternate" type="application/rss+xml" title="POLITICO - CLICK [RSS]" href="http://www.politico.com/rss/click.xml" />
+  <link rel="alternate" type="application/rss+xml" title="POLITICO - Congress [RSS]" href="http://www.politico.com/rss/congress.xml" />
+  <link rel="alternate" type="application/rss+xml" title="POLITICO - 2012 LIVE [RSS]" href="http://www.politico.com/rss/2012-election.xml" />
+  <link rel="alternate" type="application/rss+xml" title="POLITICO - Arena [RSS]" href="http://www.politico.com/rss/arena.xml" />
+  <meta property="og:title" content="Elections: Photos, Videos &amp; Latest News about Elections" />
+  <meta property="og:url" content="http://www.politico.com/p/pages/elections/" />
+  <meta property="og:site_name" content="POLITICO" />
+  <meta property="fb:app_id" content="114037015331397" />
+  <meta property="og:description" content="Latest news on Elections. Includes blogs, videos, and pictures about Elections." />
+  <meta name="keywords" content="Elections pictures, Elections photos, about Elections, Elections video, Elections blog, Elections news, Elections breaking news, Elections headlines, Elections stories" />
+  <meta name="description" content="Latest news on Elections. Includes blogs, videos, and pictures about Elections." />
+  <meta name="author" content="POLITICO" />
+  <meta name="publish_date" content="Sun, 12 Jan 2014 16:48:01 EST" />
+  <link rel="shortcut icon" type="image/ico" href="http://www.politico.com/favicon.ico" />
+  <link rel="canonical" href="http://www.politico.com/p/pages/elections/" />
+  <script type="text/javascript" src="http://www.politico.com/js/v7/modernizr.js">
+  </script>
+  <script type="text/javascript" src="http://www.politico.com/js/jquery1.6.4.min.js">
+  </script>
+  <script type="text/javascript" src="http://www.politico.com/js/jquery-ui.min.js">
+  </script>
+  <script src="http://www.politico.com/js/v7/global-plugins.js">
+  </script>
+  <script src="http://www.politico.com/js/v7/common.js">
+  </script>
+  <!--[if lte IE 6]&gt;
+&lt;script type="text/javascript" src="http://www.politico.com/js/v7/supersleight.plugin.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="http://www.politico.com/js/v7/iepngs.js"&gt;&lt;/script&gt;
+&lt;![endif]-->
+  <script src="//cdn.optimizely.com/js/553701075.js">
+  </script>
+  <link rel="stylesheet" type="text/css" href="http://www.politico.com/css/v7/politico/sectionfront.css" />
+  <link rel="stylesheet" type="text/css" href="http://www.politico.com/css/v7/politico/2012.css" media="screen" />
+  <!-- LOTAME -->
+  <script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=1851/pe=y/var=ccauds">
+  </script>
+  <script type="text/javascript">
+   // CRITEO
+		var crtg_nid="1688";
+		var crtg_cookiename="ctopo";
+		function crtg_getCookie(c_name){var i,x,y,ARRcookies=document.cookie.split(";");for(i=0;i&lt;ARRcookies.length;i++){x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}
+		var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url='http://rta.criteo.com/dis/rtt.js?networkId='+escape(crtg_nid);crtg_url+='&amp;cookieName='+escape(crtg_cookiename);crtg_url+='&amp;rnd='+crtg_rnd;crtg_url+='&amp;varName=crtg_content';var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length&gt;0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length&gt;0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+	
+		// QUANTCAST
+		var quantSegs="";
+		function qc_callback(result) {
+			for (var i = 0; i &lt; result.segments.length; i++) {
+				quantSegs += 'qcseg=' + result.segments[i].id + ';';
+			}
+		}
+		
+		// LOWTAME
+		var dartCCKey = "ccaud";
+			var dartCC = "";
+			if (typeof(ccauds) != 'undefined'){
+				for (var cci = 0; cci &lt; ccauds.Profile.Audiences.Audience.length; cci++){
+				if (cci &gt; 0) dartCC += ";";
+				dartCC += dartCCKey + "=" + ccauds.Profile.Audiences.Audience[cci].id;
+			}
+		}
+  </script>
+  <!-- QUANTCAST -->
+  <script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-7bhLrd63bC8jI&amp;callback=qc_callback">
+  </script>
+  <script>
+   function OAS_AD(adSize){
+		if(adSize == 'x05'){
+			pos=1; tile=1; sz='728x90,900x90'; 
+			ord=Math.random()*10000000000000000;
+		} else if (adSize == 'x01'){
+			pos=1; tile=2; sz='300x250,336x280,300x600,336x850';
+		} else if (adSize == 'x20'){
+			pos=1; tile=2; sz='300x250';
+		} else if (adSize == 'x02'){
+			pos=2; tile=3; sz='300x250,336x280,300x600,336x850,1x1';
+		} else if (adSize == 'x03'){
+			pos=3; tile=4; sz='300x250,336x280,300x600,336x850,1x1';
+		} else if (adSize == 'x04'){
+			pos=4; tile=5; sz='300x250,336x280,300x600,336x850,1x1';
+		} else if (adSize == 'x13'){
+			pos=1; tile=2; sz='206x40,1x1';
+		} else if (adSize == 'x96'){
+			sz='1x1'; pos=10; tile=10;
+		} else if (adSize == 'x88'){
+			sz='88x31'; pos="null"; tile="null";
+		} 
+		else {
+			pos=6; tile=6; sz='300x250,336x280,300x600,336x850,1x1';
+		}
+		if(typeof ord === 'undefined'){ord=Math.random()*10000000000000000;}
+		if(adSize == 'x96'){
+		document.write('&lt;script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/elections;dcopt=ist;pos='+pos+';tile='+tile+';sz='+sz+';ord='+ord+'?"&gt;&lt;\/script&gt;');
+		}
+		else
+		{
+		document.write('&lt;script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/elections;'+quantSegs+';'+crtg_content+';'+dartCC+';pos='+pos+';tile='+tile+';sz='+sz+';ord='+ord+'?"&gt;&lt;\/script&gt;');
+		}
+	}
+  </script>
+  <script type="text/javascript" src="http://www.politico.com/js/v4/load_includes.min.js">
+  </script>
+  <script type="text/javascript">
+   function previewSlideShow(type,id) {
+		if(isDefined("slideshow") == true) {slideshow.close();}
+			slideshow=window.open("http://www.politico.com/slideshow/slideshow.html?xml=xml/" + id + "#id=" + id, "slideshow", "width=1000,height=775,status=no,resizable=yes,top=20,left=20");
+		}
+	function isDefined(variable) {return (typeof(window[variable]) != "undefined");}
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function(){
+					$("#mainContentFull img").lazyload({ 
+						placeholder : "http://www.politico.com/design/bg/gray.gif",
+						effect : "fadeIn" ,
+						failurelimit : 18
+					});
+					$("#mainContent img").lazyload({ 
+						placeholder : "http://www.politico.com/design/bg/gray.gif",
+						effect : "fadeIn" ,
+						failurelimit : 18
+					});
+					$("#secondaryContent .mod img").lazyload({ 
+						placeholder : "http://www.politico.com/design/bg/gray.gif",
+						effect : "fadeIn" 
+					});
+					$(".featured-content-footer img").lazyload({ 
+						placeholder : "http://www.politico.com/design/bg/gray.gif",
+						effect : "fadeIn" ,
+						failurelimit : 18
+					});
+					
+				});
+  </script>
+  <!-- ADDTHIS SCRIPTS-->
+  <script>
+   var addthis_config = {
+			"data_track_clickback":true,
+			    data_ga_social : true,
+			services_compact: 'google_plusone_share, reddit, linkedin, tumblr',
+			services_exclude: 'email, facebook, twitter, print, google, favorites',
+			ui_show_promo: false
+			};
+  </script>
+  <script src="http://s7.addthis.com/js/250/addthis_widget.js##pubid=politico.com">
+  </script>
+  <!-- //ADDTHIS SCRIPTS-->
+  <script type="text/javascript">
+   var disqus_shortname = 'politico';
+  </script>
+  <script type="text/javascript" src="http://www.politico.com/js/disquscount.js">
+  </script>
+  <script>
+   var ldpth = "/includes/";
+  </script>
+  <script>
+   function getpolldata(jData) {
+					if (jData == null)
+					{
+						alert("There was a problem parsing search results.");
+						return;
+					}
+					$("#widgetPollitico").html(jData);
+				}
+				
+				function politico_pollvote(){
+					var selectedValue = '';
+					var sendvalue = '';
+					for (i=0;i&lt;document.frmPoll.answer.length;i++){
+						if (document.frmPoll.answer[i].checked==true){
+							selectedValue=i
+						}
+					}
+					
+					sendvalue = escape(document.frmPoll.answer[selectedValue].value);
+					var req  = 'http://dyn.politico.com/polls/poll_voteresponse.cfm?v='+sendvalue;
+					bObj = new JSONscriptRequest(req);
+					bObj.buildScriptTag();
+					bObj.addScriptTag();
+				}
+  </script>
+  <!-- OMNITURE CODE -->
+  <!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
+  <script type="text/javascript" src="http://www.politico.com/omtr_code.js?v=8&amp;ver=10">
+  </script>
+  <script type="text/javascript">
+   &lt;!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+omtr.pageName="supertag - Elections";
+omtr.pageType="Other";
+omtr.channel="no section";
+omtr.prop1="supertag";
+omtr.prop12="supertag - Elections";
+omtr.prop13="supertag/";
+omtr.prop14="no author";
+omtr.prop9="no blog";
+omtr.prop20="supertag";
+omtr.prop29="no tipsheet";
+omtr.prop31="20140112";
+omtr.prop34="supertag - Elections";
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var omtr_code=omtr.t();if(omtr_code)document.write(omtr_code)//--&gt;
+  </script>
+  <!--/DO NOT REMOVE/-->
+  <!-- End SiteCatalyst code version: H.20.3. -->
+  <!--// OMNITURE CODE-->
+ </head>
+ <body id="superTag">
+  <!--Javascript SDK for facebook like, I'm not sure if this is the optimal position for it (facbook recommended directly after the body tag)-->
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <div class="top-leaderboard">
+   <!-- begin ad tag -->
+   <script type="text/javascript">
+    dcCat="null";
+		
+			ord=Math.random()*10000000000000000;
+		
+		//&lt;![CDATA[
+		
+		document.write('&lt;script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/elections;'+quantSegs+';'+crtg_content+';'+dartCC+';pos=1;tile=1;sz=728x90,900x90,980x90;ord='+ord+'?"&gt;&lt;\/script&gt;');
+   </script>
+   <noscript>
+    <a href="http://ad.doubleclick.net/jump/politico/elections;pos=1;tile=1;sz=728x90,900x90,980x90;ord=123456789?" target="_blank">
+     <img src="http://ad.doubleclick.net/ad/politico/elections;pos=1;tile=1;sz=728x90,900x90,980x90;ord=123456789?" border="0" alt="" />
+    </a>
+   </noscript>
+   <!--// end ad tag -->
+  </div>
+  <div id="siteWrapper">
+   <ul class="jump-links">
+    <li>
+     <a href="#primaryNav">
+      Skip to navigation
+     </a>
+    </li>
+    <li>
+     <a href="#mainContent">
+      Skip to content
+     </a>
+    </li>
+    <li>
+     <a href="#secondaryContent">
+      Skip to sidebar
+     </a>
+    </li>
+   </ul>
+   <div class="primary-masthead" role="banner">
+    <h1 class="site-logo">
+     <a href="http://www.politico.com" title="POLITICO Home">
+      POLITICO
+     </a>
+    </h1>
+    <div class="utilities">
+     <div class="utility-sponsor">
+      <script type="text/javascript">
+       OAS_AD('x88');
+      </script>
+     </div>
+     <ul class="utility-links">
+      <li class="follow-items">
+       <ul class="social-media-follow">
+        <li class="facebook">
+         <div class="fb-share">
+          <div class="fb-like" data-href="https://www.facebook.com/politico" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false">
+          </div>
+         </div>
+        </li>
+        <!--/.facebook-->
+        <li class="twitter">
+         <a href="https://twitter.com/Politico" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">
+          Follow @Politico
+         </a>
+         <script>
+          !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+         </script>
+        </li>
+        <!--/.twitter-->
+        <li class="google">
+         <!-- Place this tag where you want the +1 button to render. -->
+         <div class="g-plusone" data-size="medium" data-annotation="none">
+         </div>
+         <!-- Place this tag after the last +1 button tag. -->
+         <script type="text/javascript">
+          (function() {
+								    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+								    po.src = 'https://apis.google.com/js/platform.js';
+								    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+								  })();
+         </script>
+        </li>
+        <!--/.google-->
+       </ul>
+      </li>
+      <li class="p-user">
+       <script type="text/javascript">
+        &lt;!--//--&gt;&lt;![CDATA[/ /&gt;&lt;!--
+							var handle = ReadCookie('MEMBERDISQUS');if (handle != null){document.write('&lt;a href="http://dyn.politico.com/member/"&gt;Logged In&lt;/a&gt;');}else{document.write('&lt;a href="http://dyn.politico.com/member/"&gt;Sign in / Register&lt;/a&gt;');}
+							//--&gt;&lt;!]]&gt;
+						&lt;/script&gt;
+					&lt;/li&gt;
+	                &lt;li&gt;&lt;a href="http://www.politico.com/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
+	            &lt;/ul&gt;
+	           
+	            &lt;div class="main-search" role="search"&gt;
+	            	
+		        	&lt;form action="http://find.politico.com" class="site-search" name="mainSearchFrm" id="Skills_Search" method="get"&gt;
+		        	
+		            	&lt;button class="search-toggle search-expand" type="button" title="Toggle advanced options"&gt;Expand&lt;/button&gt;
+		                &lt;ul&gt;
+		                	&lt;li class="search-author"&gt;
+		                    	&lt;label for="reporters"&gt;&lt;b&gt;Search by&lt;/b&gt; Author&lt;/label&gt;
+		                        &lt;select id="reporters" name="reporters"&gt;
+								   &lt;option value=""&gt;Any Reporter&lt;/option&gt;
+									&lt;option value="3834" title="Alexander, Anila "&gt;Alexander, Anila &lt;/option&gt;&lt;option value="1235" title="Allen, Jonathan "&gt;Allen, Jonathan &lt;/option&gt;&lt;option value="32" title="Allen, Mike "&gt;Allen, Mike &lt;/option&gt;&lt;option value="3275" title="Bade, Rachael "&gt;Bade, Rachael &lt;/option&gt;&lt;option value="3901" title="Behsudi, Adam "&gt;Behsudi, Adam &lt;/option&gt;&lt;option value="1783" title="Berman, Dan "&gt;Berman, Dan &lt;/option&gt;&lt;option value="2172" title="Birnbaum, Gregg "&gt;Birnbaum, Gregg &lt;/option&gt;&lt;option value="2107" title="Boliek, Brooks "&gt;Boliek, Brooks &lt;/option&gt;&lt;option value="3878" title="Bottemiller Evich, Helena "&gt;Bottemiller Evich, Helena &lt;/option&gt;&lt;option value="3841" title="Bradner, Eric "&gt;Bradner, Eric &lt;/option&gt;&lt;option value="3251" title="Brannen, Kate "&gt;Brannen, Kate &lt;/option&gt;&lt;option value="36" title="Bresnahan, John "&gt;Bresnahan, John &lt;/option&gt;&lt;option value="58" title="Budoff Brown, Carrie "&gt;Budoff Brown, Carrie &lt;/option&gt;&lt;option value="2480" title="Buford, Talia "&gt;Buford, Talia &lt;/option&gt;&lt;option value="587" title="Burns, Alexander "&gt;Burns, Alexander &lt;/option&gt;&lt;option value="1663" title="Byers, Alex "&gt;Byers, Alex &lt;/option&gt;&lt;option value="2732" title="Byers, Dylan "&gt;Byers, Dylan &lt;/option&gt;&lt;option value="3036" title="Cheney, Kyle "&gt;Cheney, Kyle &lt;/option&gt;&lt;option value="3201" title="Cirilli, Kevin "&gt;Cirilli, Kevin &lt;/option&gt;&lt;option value="3086" title="Corba, Jacqueline "&gt;Corba, Jacqueline &lt;/option&gt;&lt;option value="3344" title="Cunningham, Paige Winfield "&gt;Cunningham, Paige Winfield &lt;/option&gt;&lt;option value="3333" title="Davidson, Kate "&gt;Davidson, Kate &lt;/option&gt;&lt;option value="3719" title="DelReal, Jose "&gt;DelReal, Jose &lt;/option&gt;&lt;option value="2058" title="Dixon, Darius "&gt;Dixon, Darius &lt;/option&gt;&lt;option value="3955" title="Dixon, Kim "&gt;Dixon, Kim &lt;/option&gt;&lt;option value="2339" title="Dovere, Edward-Isaac "&gt;Dovere, Edward-Isaac &lt;/option&gt;&lt;option value="2718" title="Drusch, Andrea "&gt;Drusch, Andrea &lt;/option&gt;&lt;option value="2876" title="Drusch, Andrea "&gt;Drusch, Andrea &lt;/option&gt;&lt;option value="2974" title="Emma, Caitlin "&gt;Emma, Caitlin &lt;/option&gt;&lt;option value="2000" title="Epstein, Jennifer "&gt;Epstein, Jennifer &lt;/option&gt;&lt;option value="2411" title="Epstein, Reid J."&gt;Epstein, Reid J.&lt;/option&gt;&lt;option value="2007" title="Everett, Burgess "&gt;Everett, Burgess &lt;/option&gt;&lt;option value="3208" title="Ewing, Philip "&gt;Ewing, Philip &lt;/option&gt;&lt;option value="3773" title="Faler, Brian "&gt;Faler, Brian &lt;/option&gt;&lt;option value="3253" title="French, Lauren "&gt;French, Lauren &lt;/option&gt;&lt;option value="3932" title="Gagnon, Geoffrey "&gt;Gagnon, Geoffrey &lt;/option&gt;&lt;option value="965" title="Gavin, Patrick "&gt;Gavin, Patrick &lt;/option&gt;&lt;option value="57" title="Gerstein, Josh "&gt;Gerstein, Josh &lt;/option&gt;&lt;option value="2731" title="Gibson, Ginger "&gt;Gibson, Ginger &lt;/option&gt;&lt;option value="24" title="Glass, Andrew "&gt;Glass, Andrew &lt;/option&gt;&lt;option value="3775" title="Glasser, Susan "&gt;Glasser, Susan &lt;/option&gt;&lt;option value="3214" title="Glueck, Katie "&gt;Glueck, Katie &lt;/option&gt;&lt;option value="2958" title="Gold, Hadas "&gt;Gold, Hadas &lt;/option&gt;&lt;option value="2011" title="Goode, Darren "&gt;Goode, Darren &lt;/option&gt;&lt;option value="2076" title="Guillén, Alex "&gt;Guillén, Alex &lt;/option&gt;&lt;option value="1522" title="Haberkorn, Jennifer "&gt;Haberkorn, Jennifer &lt;/option&gt;&lt;option value="1592" title="Haberman, Maggie "&gt;Haberman, Maggie &lt;/option&gt;&lt;option value="242" title="Harris, John F."&gt;Harris, John F.&lt;/option&gt;&lt;option value="676" title="Heitz, Dianna "&gt;Heitz, Dianna &lt;/option&gt;&lt;option value="532" title="Hillman, G. Robert"&gt;Hillman, G. Robert&lt;/option&gt;&lt;option value="1350" title="Hohmann, James "&gt;Hohmann, James &lt;/option&gt;&lt;option value="3888" title="Hopkinson, Jenny "&gt;Hopkinson, Jenny &lt;/option&gt;&lt;option value="3745" title="Hounshell, Blake "&gt;Hounshell, Blake &lt;/option&gt;&lt;option value="3817" title="Huffman, Jason "&gt;Huffman, Jason &lt;/option&gt;&lt;option value="4058" title="Hunter, Jack "&gt;Hunter, Jack &lt;/option&gt;&lt;option value="922" title="Isenstadt, Alex "&gt;Isenstadt, Alex &lt;/option&gt;&lt;option value="301" title="Kady II, Martin "&gt;Kady II, Martin &lt;/option&gt;&lt;option value="2623" title="Kenen, Joanne "&gt;Kenen, Joanne &lt;/option&gt;&lt;option value="1280" title="Kim, Seung Min "&gt;Kim, Seung Min &lt;/option&gt;&lt;option value="2116" title="King, Bob "&gt;King, Bob &lt;/option&gt;&lt;option value="2971" title="Kopan, Tal "&gt;Kopan, Tal &lt;/option&gt;&lt;option value="1291" title="Lee, MJ "&gt;Lee, MJ &lt;/option&gt;&lt;option value="4041" title="Levine, Susan "&gt;Levine, Susan &lt;/option&gt;&lt;option value="3062" title="Marshall, Madeline "&gt;Marshall, Madeline &lt;/option&gt;&lt;option value="2666" title="Martinson, Erica "&gt;Martinson, Erica &lt;/option&gt;&lt;option value="2312" title="McCalmont, Lucy "&gt;McCalmont, Lucy &lt;/option&gt;&lt;option value="1915" title="McDevitt, Caitlin "&gt;McDevitt, Caitlin &lt;/option&gt;&lt;option value="2088" title="McGann, Laura "&gt;McGann, Laura &lt;/option&gt;&lt;option value="4007" title="Mershon, Erin "&gt;Mershon, Erin &lt;/option&gt;&lt;option value="2986" title="Meyers, Jessica "&gt;Meyers, Jessica &lt;/option&gt;&lt;option value="3868" title="Michaud, Janet "&gt;Michaud, Janet &lt;/option&gt;&lt;option value="2376" title="Millman, Jason "&gt;Millman, Jason &lt;/option&gt;&lt;option value="2563" title="Munsil, Leigh "&gt;Munsil, Leigh &lt;/option&gt;&lt;option value="2873" title="Murgai, Puja "&gt;Murgai, Puja &lt;/option&gt;&lt;option value="2112" title="Nather, David "&gt;Nather, David &lt;/option&gt;&lt;option value="2956" title="Nelson, Eric "&gt;Nelson, Eric &lt;/option&gt;&lt;option value="3798" title="Nelson, Libby A."&gt;Nelson, Libby A.&lt;/option&gt;&lt;option value="147" title="Nichols, Bill "&gt;Nichols, Bill &lt;/option&gt;&lt;option value="2498" title="Norman, Brett "&gt;Norman, Brett &lt;/option&gt;&lt;option value="2514" title="Palmer, Anna "&gt;Palmer, Anna &lt;/option&gt;&lt;option value="3889" title="Palmer, Doug "&gt;Palmer, Doug &lt;/option&gt;&lt;option value="3111" title="Parti, Tarini "&gt;Parti, Tarini &lt;/option&gt;&lt;option value="2853" title="Petersen, Olivia "&gt;Petersen, Olivia &lt;/option&gt;&lt;option value="3276" title="Prior, Jon "&gt;Prior, Jon &lt;/option&gt;&lt;option value="3900" title="Purdum, Todd S."&gt;Purdum, Todd S.&lt;/option&gt;&lt;option value="900" title="Raju, Manu "&gt;Raju, Manu &lt;/option&gt;&lt;option value="3094" title="Restuccia, Andrew "&gt;Restuccia, Andrew &lt;/option&gt;&lt;option value="2278" title="Robillard, Kevin "&gt;Robillard, Kevin &lt;/option&gt;&lt;option value="426" title="Rogers, David "&gt;Rogers, David &lt;/option&gt;&lt;option value="2900" title="Romano, Lois "&gt;Romano, Lois &lt;/option&gt;&lt;option value="1630" title="Romm, Tony "&gt;Romm, Tony &lt;/option&gt;&lt;option value="2218" title="Rosche, Jedd "&gt;Rosche, Jedd &lt;/option&gt;&lt;option value="1656" title="Samuelsohn, Darren "&gt;Samuelsohn, Darren &lt;/option&gt;&lt;option value="1634" title="Schultheis, Emily "&gt;Schultheis, Emily &lt;/option&gt;&lt;option value="4017" title="Severns, Maggie "&gt;Severns, Maggie &lt;/option&gt;&lt;option value="3803" title="Shah, Nirvi "&gt;Shah, Nirvi &lt;/option&gt;&lt;option value="1226" title="Sherman, Jake "&gt;Sherman, Jake &lt;/option&gt;&lt;option value="30" title="Simon, Roger "&gt;Simon, Roger &lt;/option&gt;&lt;option value="3818" title="Simon, Stephanie "&gt;Simon, Stephanie &lt;/option&gt;&lt;option value="3646" title="Sinderbrand, Rebecca "&gt;Sinderbrand, Rebecca &lt;/option&gt;&lt;option value="3902" title="Slattery, Margy "&gt;Slattery, Margy &lt;/option&gt;&lt;option value="3191" title="Sloan, Steven "&gt;Sloan, Steven &lt;/option&gt;&lt;option value="2311" title="Smolkin, Rachel "&gt;Smolkin, Rachel &lt;/option&gt;&lt;option value="3254" title="Snell, Kelsey "&gt;Snell, Kelsey &lt;/option&gt;&lt;option value="2667" title="Snider, Adam "&gt;Snider, Adam &lt;/option&gt;&lt;option value="1978" title="Summers, Juana "&gt;Summers, Juana &lt;/option&gt;&lt;option value="1943" title="Tau, Byron "&gt;Tau, Byron &lt;/option&gt;&lt;option value="678" title="Thrush, Glenn "&gt;Thrush, Glenn &lt;/option&gt;&lt;option value="2518" title="Titus, Elizabeth "&gt;Titus, Elizabeth &lt;/option&gt;&lt;option value="3856" title="Tomson, Bill "&gt;Tomson, Bill &lt;/option&gt;&lt;option value="4094" title="Toosi, Nahal "&gt;Toosi, Nahal &lt;/option&gt;&lt;option value="2826" title="Van Dongen, Rachel "&gt;Van Dongen, Rachel &lt;/option&gt;&lt;option value="33" title="VandeHei, Jim "&gt;VandeHei, Jim &lt;/option&gt;&lt;option value="3991" title="Villacorta, Natalie "&gt;Villacorta, Natalie &lt;/option&gt;&lt;option value="15" title="Vogel, Kenneth P."&gt;Vogel, Kenneth P.&lt;/option&gt;&lt;option value="3252" title="Warmbrodt, Zachary "&gt;Warmbrodt, Zachary &lt;/option&gt;&lt;option value="3869" title="Weaver, Aubree Eliza "&gt;Weaver, Aubree Eliza &lt;/option&gt;&lt;option value="2433" title="Weinger, Mackenzie "&gt;Weinger, Mackenzie &lt;/option&gt;&lt;option value="1254" title="White, Ben "&gt;White, Ben &lt;/option&gt;&lt;option value="3887" title="Wills, Denise "&gt;Wills, Denise &lt;/option&gt;&lt;option value="2917" title="Wolfe, Kathryn A."&gt;Wolfe, Kathryn A.&lt;/option&gt;&lt;option value="1606" title="Wong, Scott "&gt;Wong, Scott &lt;/option&gt;&lt;option value="2475" title="Wright, Austin "&gt;Wright, Austin &lt;/option&gt;&lt;option value="2151" title="Zapler, Mike "&gt;Zapler, Mike &lt;/option&gt;&lt;option value="3886" title="Zengerle, Jason "&gt;Zengerle, Jason &lt;/option&gt;
+								&lt;/select&gt; 
+		                    &lt;/li&gt;
+		                    &lt;li class="search-date"&gt;
+		                    	&lt;label for="date"&gt;Date&lt;/label&gt;
+		                        &lt;select id="date" name="dt"&gt;&lt;/select&gt;
+		                    &lt;/li&gt;
+		                    &lt;li class="search-keyword"&gt;
+		                    	&lt;input type="hidden" id="adv" value="0"  /&gt;
+								&lt;label for="newkey" class="infield"&gt;Search POLITICO&lt;/label&gt;
+								&lt;input type="text" id="newkey" name="key" onKeyUp="loadDoc(event);" title="Enter search text."  /&gt;
+								&lt;div id="mainsuggestdiv" style="z-index:950"&gt;
+									&lt;div class="suggest" id="key_choices" onMouseOver="clearhidesuggest()" onMouseOut="dynamichidesuggest(event)"&gt;&lt;/div&gt;
+								&lt;/div&gt;
+		                    &lt;/li&gt;
+		                &lt;/ul&gt;
+		                &lt;input type="submit" class="search-submit" value="Search" /&gt;
+		            &lt;/form&gt;
+			  &lt;/div&gt;&lt;!--/.main-search--&gt;
+	        &lt;/div&gt;&lt;!--/.utilities--&gt;
+	    &lt;/div&gt;&lt;!--/.primary-masthead--&gt;
+	
+		&lt;!-- Main Navigation for site--&gt;
+	    
+&lt;ul id="primaryNav" class="primary-nav" role="navigation"&gt;
+	&lt;li class="nav-magazine"&gt;&lt;a href="http://www.politico.com/magazine/"&gt;Magazine&lt;/a&gt;
+		&lt;ul class="main-nav-sub"&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/magazine/"&gt;Magazine Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/magazine/todays-cover/"&gt;Today's Cover&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/p/magazine/tag/opinion/"&gt;Opinion&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/magazine/index.html#superLatest"&gt;Latest Stories&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/magazine/subscribe/"&gt;Weekly Email Signup&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li class="nav-elections "&gt;&lt;a href="http://www.politico.com/pages/elections/"&gt;Elections&lt;/a&gt;
+		&lt;ul class="main-nav-sub"&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/pages/elections/"&gt;Elections Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/p/pages/2014-elections"&gt;2014 Midterm Elections&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/2012-election/polls/president/"&gt;Polling Center&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/2012-election/map/"&gt;2012 Election Results&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li class="nav-congress "&gt;&lt;a href="http://www.politico.com/congress/"&gt;Congress&lt;/a&gt;&lt;/li&gt;
+	&lt;li class="nav-blogs "&gt;&lt;a href="javascript:null(0);"&gt;Blogs&lt;/a&gt;
+		&lt;ul class="main-nav-sub"&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/blogs/media/"&gt;Dylan Byers&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/blogs/under-the-radar/"&gt;Josh Gerstein&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="http://www.politico.com/blogs/joe-scarborough/"&gt;Joe Scarborough&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class="nav-policy "&gt;&lt;a href="javascript:null(0);"&gt;Policy&lt;/a&gt;
+		&lt;ul class="main-nav-sub"&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/agriculture/"&gt;Agriculture&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/defense/"&gt;Defense&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/education/"&gt;Education&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/energy/"&gt;Energy &amp; Environment&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/money/"&gt;Finance&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/healthcare/"&gt;Health Care&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/technology/"&gt;Technology&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/trade/"&gt;Trade&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="http://www.politico.com/transportation/"&gt;Transportation &amp; Infrastructure&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li class="nav-video "&gt;&lt;a href="http://www.politico.com/multimedia/"&gt;Video&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="nav-photos "&gt;&lt;a href="http://www.politico.com/gallery/"&gt;Photos&lt;/a&gt;&lt;/li&gt;
+	&lt;li class="nav-events"&gt;&lt;a href="http://www.politico.com/events/"&gt;Events&lt;/a&gt;&lt;/li&gt;
+	&lt;li class="nav-power-jobs"&gt;&lt;a href="http://www.powerjobs.com"&gt;POWERJobs&lt;/a&gt;&lt;/li&gt;
+	&lt;li class="nav-politico-pro"&gt;&lt;a href="http://www.politicopro.com"&gt;POLITICO Pro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+		&lt;!-- //Main Nav --&gt;
+		
+
+    &lt;!--Content Area - all content belongs in content--&gt;
+    &lt;div id="content" role="main"&gt;
+
+	
+	&lt;div id="mainContent"&gt;
+		
+		
+		
+				&lt;div class="emphasized-header"&gt;
+	                &lt;h1&gt;Elections&lt;/h1&gt;
+	                &lt;p&gt;News, Analysis and Opinion &lt;em&gt;from&lt;/em&gt; POLITICO&lt;/p&gt;
+	            &lt;/div&gt;
+			
+
+			
+			&lt;div class="topic-utilities"&gt;
+            	&lt;a href="http://www.politico.com/p/pages/rss/elections.xml" class="rss"&gt;Follow this topic&lt;/a&gt;
+				
+            	&lt;!-- AddThis Button BEGIN --&gt;
+                &lt;div class="addthis_toolbox addthis_default_style " addthis:url="http://www.politico.com/p/pages/elections/"&gt;
+                    &lt;a class="addthis_button_facebook_like" fb:like:layout="button_count"&gt;&lt;/a&gt;
+                    &lt;a class="addthis_button_tweet" tw:via="POLITICO"&gt;&lt;/a&gt;
+                    &lt;a class="addthis_counter addthis_pill_style"&gt;&lt;/a&gt;
+                &lt;/div&gt;
+                &lt;!-- AddThis Button END --&gt; 
+			
+            &lt;/div&gt;&lt;!--/.topic-utilities--&gt;
+
+			
+			
+&lt;div class="main-stories main-stories-double main-stories-divide-horizontal"&gt;
+	
+	
+		&lt;ul class="main-stories-list de-emphasized"&gt;
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/blogs/politico-live/2014/01/omalley-declines-to-answer-question-181038.html"&gt;O’Malley declines to answer 2016 question&lt;/a&gt;&lt;/h3&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/SeungMinKim.html" rel="nofollow"&gt;SEUNG MIN KIM&lt;/a&gt; | 1/12/14 9:30 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Maryland Gov. Martin O&rsquo;Malley, often mentioned as a Democratic presidential candidate in 2016, declined on...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/blogs/politico-live/2014/01/omalley-declines-to-answer-question-181038.html#disqus_thread" data-disqus-identifier="plive-181038"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/chris-christie-wall-street-donors-bridge-101958.html"&gt;Christie scandal tests Wall Street&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/chris-christie-wall-street-donors-bridge-101958.html" &gt;&lt;img src="http://images.politico.com/global/2013/10/29/131029_chris_christie_ap_3281_289x156.jpg" alt="New Jersey Gov. Chris Christie is pictured. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/BenWhite.html" rel="nofollow"&gt;BEN WHITE&lt;/a&gt; | 1/9/14 9:24 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Chris Christie is a favorite among deep-pocketed Wall Street donors for the 2016 Republican presidential nomination. But...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/chris-christie-wall-street-donors-bridge-101958.html#disqus_thread" data-disqus-identifier="pstory-180880"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/independent-voters-partisans-in-the-closet-101931.html"&gt;The partisans in the closet&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/magazine/story/2014/01/independent-voters-partisans-in-the-closet-101931.html" class="media-overlay"&gt;&lt;img src="http://images.politico.com/global/2014/01/08/140108_voting_booths_abramowitz_ap_289x156.jpg" alt=""  /&gt;
+							&lt;span class="media-overlay-button magazine"&gt;POLITICO Magazine&lt;/span&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By ALAN ABRAMOWITZ | 1/8/14 8:47 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;According to the latest Gallup Poll, last year a record 42 percent of Americans considered themselves political...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/magazine/story/2014/01/independent-voters-partisans-in-the-closet-101931.html#disqus_thread" data-disqus-identifier="pstory-180841"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/chris-christie-emails-twitter-101907.html"&gt;Christie emails take off on Twitter&lt;/a&gt;&lt;/h3&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/LucyMcCalmont.html" rel="nofollow"&gt;LUCY MCCALMONT&lt;/a&gt; | 1/8/14 1:10 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;[View the story "Christie emails take off on Twitter" on Storify]
+Mobile users view...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/chris-christie-emails-twitter-101907.html#disqus_thread" data-disqus-identifier="pstory-180806"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/ad-targets-scott-brown-new-hampshire-senate-2014-elections-101881.html"&gt;Ad targets Scott Brown in N.H.&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/ad-targets-scott-brown-new-hampshire-senate-2014-elections-101881.html" &gt;&lt;img src="http://images.politico.com/global/2013/08/08/130808_scott_brown_ap_328_289x156.jpg" alt="Scott Brown is shown. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/JamesHohmann.html" rel="nofollow"&gt;JAMES HOHMANN&lt;/a&gt; | 1/8/14 5:07 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;The Democratic Senate Majority PAC will launch a $150,000-plus ad buy against Scott Brown in New Hampshire on Wednesday....&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/ad-targets-scott-brown-new-hampshire-senate-2014-elections-101881.html#disqus_thread" data-disqus-identifier="pstory-180762"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/ready-for-hillary-clinton-super-pac-101878.html"&gt;$4 million for Ready for Hillary&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/ready-for-hillary-clinton-super-pac-101878.html" &gt;&lt;img src="http://images.politico.com/global/2014/01/07/hillary_clinton_ap_328_289x156.jpg" alt="Hillary Clinton is pictured. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/KatieGlueck.html" rel="nofollow"&gt;KATIE GLUECK&lt;/a&gt; | 1/7/14 9:01 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Ready for Hillary, a super PAC that supports a possible Hillary Clinton presidential run, announced Tuesday that it raked...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/ready-for-hillary-clinton-super-pac-101878.html#disqus_thread" data-disqus-identifier="pstory-180759"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/jeanne-shaheen-scott-brown-polls-new-hampshire-senate-2014-elections-101860.html"&gt;Shaheen polls on possible Brown run&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/jeanne-shaheen-scott-brown-polls-new-hampshire-senate-2014-elections-101860.html" &gt;&lt;img src="http://images.politico.com/global/2013/09/29/130929_shaheen_brown_605_ap_289x156.jpg" alt="Jeanne Shaheen (left) and Scott Brown are shown in this composite art. | AP Photos"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/JamesHohmann.html" rel="nofollow"&gt;JAMES HOHMANN&lt;/a&gt; | 1/7/14 6:00 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Sen. Jeanne Shaheen (D-N.H.) is in the field this week with an internal poll to gauge how vulnerable she is to a...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/jeanne-shaheen-scott-brown-polls-new-hampshire-senate-2014-elections-101860.html#disqus_thread" data-disqus-identifier="pstory-180739"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/trey-radel-paige-kreegel-primary-florida-101851.html"&gt;Radel draws primary challenger&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/trey-radel-paige-kreegel-primary-florida-101851.html" &gt;&lt;img src="http://images.politico.com/global/2014/01/07/140107_radel_kreegle_ap_605_289x156.jpg" alt="Trey Radel (left) and Paige Kreegle are pictured in this composite image. | AP Photos"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/AlexIsenstadt.html" rel="nofollow"&gt;ALEX ISENSTADT&lt;/a&gt; | 1/7/14 3:10 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;More than a month after news broke that he was arrested for buying cocaine, Rep. Trey Radel (R-Fla.) drew his first...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/trey-radel-paige-kreegel-primary-florida-101851.html#disqus_thread" data-disqus-identifier="pstory-180726"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/2014-elections-midterms-gop-poll-101843.html"&gt;Poll: GOP excited for midterms&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/2014-elections-midterms-gop-poll-101843.html" &gt;&lt;img src="http://images.politico.com/global/2012/09/120502_votingbooth_ap_289x156.jpg" alt="Voting booths are pictured. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/TalKopan.html" rel="nofollow"&gt;TAL KOPAN&lt;/a&gt; | 1/7/14 1:07 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;A bare majority of Americans say they are looking forward to midterm elections in a new poll, but Republicans are more...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/2014-elections-midterms-gop-poll-101843.html#disqus_thread" data-disqus-identifier="pstory-180716"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/barbara-comstock-enters-race-for-frank-wolf-seat-101829.html"&gt;Comstock enters race for Wolf seat&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/barbara-comstock-enters-race-for-frank-wolf-seat-101829.html" &gt;&lt;img src="http://images.politico.com/global/2014/01/07/barbara-comstock-ap-328_289x156.jpg" alt="Virginia State Delegate Barbara Comstock is seen on the television monitor as she seconds the nomination of Mitt Romney for the Office of President of the United States during the Republican National Convention in Tampa, Fla., on Tuesday, Aug. 28, 2012. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/TalKopan.html" rel="nofollow"&gt;TAL KOPAN&lt;/a&gt; | 1/7/14 9:16 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;A Virginia Republican is jumping into the race to replace Rep. Frank Wolf, who is retiring from a moderate Northern...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/barbara-comstock-enters-race-for-frank-wolf-seat-101829.html#disqus_thread" data-disqus-identifier="pstory-180692"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;ul class="main-stories-list de-emphasized"&gt;
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/donald-trump-governor-tweet-102032.html"&gt;Trump wants 'unified party' before bid&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/donald-trump-governor-tweet-102032.html" &gt;&lt;img src="http://images.politico.com/global/2013/10/08/130810_donald_trump_ap_605_289x156.jpg" alt="Donald Trump is pictured. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/LucyMcCalmont.html" rel="nofollow"&gt;LUCY MCCALMONT&lt;/a&gt; | 1/10/14 3:08 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Following a meeting Friday with Republican officials, real estate mogul Donald Trump told a local paper if he has the...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/donald-trump-governor-tweet-102032.html#disqus_thread" data-disqus-identifier="pstory-180990"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/matt-hoskins-senate-conservatives-fund-101943.html"&gt;An unbending leader on the right&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/matt-hoskins-senate-conservatives-fund-101943.html" &gt;&lt;img src="http://images.politico.com/global/2014/01/08/140108_matt_hoskins_courtesy_605_289x156.jpg" alt="Matt Hoskins is pictured. | Courtesy of Matt Hoskins"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/ManuRaju.html" rel="nofollow"&gt;MANU RAJU&lt;/a&gt; and  &lt;a href="http://www.politico.com/reporters/MaggieHaberman.html" rel="nofollow"&gt;MAGGIE HABERMAN&lt;/a&gt; | 1/9/14 5:06 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;For Matt Hoskins, bashing Republicans is good for business.
+The leader of the Senate Conservatives Fund has built his...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/matt-hoskins-senate-conservatives-fund-101943.html#disqus_thread" data-disqus-identifier="pstory-180854"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/chris-christie-bridge-scandal-101909.html"&gt;Scandal imperils Christie's image&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/chris-christie-bridge-scandal-101909.html" &gt;&lt;img src="http://images.politico.com/global/2013/08/22/130822_chris_christie_ap_605_289x156.jpg" alt="New Jersey Gov. Chris Christie listens to a question at an event Wednesday, Aug. 21, 2013, in Camden, N.J., where he named Paymon Rouhanifard as superintendent of the city's public schools. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/AlexanderBurns.html" rel="nofollow"&gt;ALEXANDER BURNS&lt;/a&gt; | 1/8/14 1:53 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;For the first time in his short career as a national political figure, New Jersey Gov. Chris Christie is in dire peril of...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/chris-christie-bridge-scandal-101909.html#disqus_thread" data-disqus-identifier="pstory-180812"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/anti-steve-stockman-ad-texas-101875.html"&gt;Anti-Stockman ad going on the air&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/anti-steve-stockman-ad-texas-101875.html" &gt;&lt;img src="http://images.politico.com/global/2013/06/13/130613_steve_stockman_ap_328_289x156.jpg" alt="Steve Stockman is pictured. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/JamesHohmann.html" rel="nofollow"&gt;JAMES HOHMANN&lt;/a&gt; | 1/8/14 5:07 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;A super PAC that supports GOP Texas Sen. John Cornyn is launching a major television buy Wednesday against Rep. Steve...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/anti-steve-stockman-ad-texas-101875.html#disqus_thread" data-disqus-identifier="pstory-180756"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/wanted-young-gop-megadonors-101870.html"&gt;GOP's money problem: Age &lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/wanted-young-gop-megadonors-101870.html" &gt;&lt;img src="http://images.politico.com/global/2014/01/07/140107_harold_simmons_bob_perry_aps_605_289x156.jpg" alt="Harold Simmons (left) and Bob Perry are pictured in this composite. | AP Photos"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/AnnaPalmer.html" rel="nofollow"&gt;ANNA PALMER&lt;/a&gt; and  &lt;a href="http://www.politico.com/reporters/TariniParti.html" rel="nofollow"&gt;TARINI PARTI&lt;/a&gt; | 1/8/14 5:05 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;The Republican Party&rsquo;s on the hunt ahead of 2016 for younger voters &mdash; and younger megadonors.
+Conservative...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/wanted-young-gop-megadonors-101870.html#disqus_thread" data-disqus-identifier="pstory-180749"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/reince-priebus-hillary-clinton-101867.html"&gt;Priebus: 'Scandal surrounds' Clinton&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/reince-priebus-hillary-clinton-101867.html" &gt;&lt;img src="http://images.politico.com/global/2014/01/07/priebus_clinton_ap_328_289x156.jpg" alt="Reince Priebus and Hillary Clinton are pictured. | AP Photos"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/JoseDelReal.html" rel="nofollow"&gt;JOSE DELREAL&lt;/a&gt; | 1/7/14 6:40 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Republican National Committee Chairman Reince Priebus thinks a Hillary Clinton presidential run might not be so bad for...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/reince-priebus-hillary-clinton-101867.html#disqus_thread" data-disqus-identifier="pstory-180746"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/robert-gates-memoir-hillary-clinton-101858.html"&gt;Gates: Obama W.H. 'offended' Clinton&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/robert-gates-memoir-hillary-clinton-101858.html" &gt;&lt;img src="http://images.politico.com/global/news/110329_clinton_gates_mtp_ap_328_289x156.jpg" alt="Hillary Clinton (left) and Bob Gates are pictured. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/KatieGlueck.html" rel="nofollow"&gt;KATIE GLUECK&lt;/a&gt; | 1/7/14 5:37 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Former Secretary of State Hillary Clinton saw the Obama administration as deeply &ldquo;controlling&rdquo; on national...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/robert-gates-memoir-hillary-clinton-101858.html#disqus_thread" data-disqus-identifier="pstory-180736"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/eric-cantor-primary-challenge-101847.html"&gt;Prof eyes Cantor primary challenge&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/eric-cantor-primary-challenge-101847.html" &gt;&lt;img src="http://images.politico.com/global/2013/11/17/131116_eric_cantor_js_328_289x156.jpg" alt="Eric Cantor is pictured. | John Shinkle/POLITICO"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/TalKopan.html" rel="nofollow"&gt;TAL KOPAN&lt;/a&gt; | 1/7/14 2:16 PM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Even House Majority Leader Eric Cantor isn&rsquo;t immune to primary challenges: The Virginia Republican will be getting...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/eric-cantor-primary-challenge-101847.html#disqus_thread" data-disqus-identifier="pstory-180721"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/raccoon-man-bill-haslam-tennessee-101830.html"&gt;Raccoon man to challenge Haslam&lt;/a&gt;&lt;/h3&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/AndreaDrusch.html" rel="nofollow"&gt;ANDREA DRUSCH&lt;/a&gt; | 1/7/14 9:48 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Bill Haslam&rsquo;s potential primary challenger has one message for the Tennessee governor: He wants his raccoon back....&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/raccoon-man-bill-haslam-tennessee-101830.html#disqus_thread" data-disqus-identifier="pstory-180701"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			
+				
+				&lt;li&gt;&lt;h3&gt;&lt;a href="http://www.politico.com/story/2014/01/defense-2014-senate-races-101824.html"&gt;Key 2014 Senate races for defense&lt;/a&gt;&lt;/h3&gt;
+					
+						&lt;div class="thumbnail"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/defense-2014-senate-races-101824.html" &gt;&lt;img src="http://images.politico.com/global/2014/01/07/110612_carl_levin_ap_605_289x156.jpg" alt="Carl Levin is pictured. | AP Photo"  /&gt;
+							
+							&lt;/a&gt;
+						&lt;/div&gt;
+					
+					&lt;p class="byline"&gt;By &lt;a href="http://www.politico.com/reporters/JuanaSummers.html" rel="nofollow"&gt;JUANA SUMMERS&lt;/a&gt; | 1/7/14 7:35 AM EST&lt;/p&gt;
+
+					
+						&lt;div class="tease"&gt;
+							&lt;p&gt;Hold on to your hats: 2014&rsquo;s competitive Senate races could have big implications for defense on Capitol Hill.
+The...&lt;/p&gt;
+						&lt;/div&gt;
+					
+
+					
+					&lt;div class="user-tools"&gt;
+						&lt;div class="user-tools-comments"&gt;
+							&lt;a href="http://www.politico.com/story/2014/01/defense-2014-senate-races-101824.html#disqus_thread" data-disqus-identifier="pstory-180683"&gt;&lt;/a&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+	
+&lt;/div&gt;&lt;!--/.main-stories--&gt;
+
+
+
+			&lt;ul class="pagination"&gt;
+			
+					
+			
+							&lt;li class="current" &gt;&lt;a href="http://www.politico.com/p/pages/elections/1/"&gt;1&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/2/"&gt;2&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/3/"&gt;3&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/4/"&gt;4&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/5/"&gt;5&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/6/"&gt;6&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/7/"&gt;7&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/8/"&gt;8&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/9/"&gt;9&lt;/a&gt;&lt;/li&gt;
+						
+							&lt;li &gt;&lt;a href="http://www.politico.com/p/pages/elections/10/"&gt;10&lt;/a&gt;&lt;/li&gt;
+						
+					&lt;li&gt;&lt;a href="http://www.politico.com/p/pages/elections/2/" rel="next"&gt;&lt;span&gt;&raquo;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				
+			
+			&lt;/ul&gt;
+		
+	
+	&lt;/div&gt; &lt;!--/maincontent--&gt;	
+
+	&lt;div id="secondaryContent"&gt;
+		
+		
+	&lt;div class="widget widget-ad"&gt;
+		
+		&lt;!-- begin ad tag --&gt;
+		&lt;script type="text/javascript"&gt;
+		dcCat="null";
+		
+		//&lt;![CDATA[
+		
+		document.write('&lt;script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/elections;'+quantSegs+';'+crtg_content+';'+dartCC+';pos=1;tile=2;sz=300x250,300x1050,300x600,336x850;ord='+ord+'?"&gt;&lt;\/script&gt;');
+		
+		&lt;/script&gt;
+		&lt;noscript&gt;&lt;a href="http://ad.doubleclick.net/jump/politico/elections;pos=1;tile=2;sz=300x250,300x1050,300x600,336x850;ord=123456789?" target="_blank" &gt;&lt;img src="http://ad.doubleclick.net/ad/politico/elections;pos=1;tile=2;sz=300x250,300x1050,300x600,336x850;ord=123456789?" border="0" alt=""  /&gt;&lt;/a&gt;&lt;/noscript&gt;
+		&lt;!--// end ad tag --&gt;
+		
+	&lt;/div&gt;&lt;!--/.widget--&gt;
+	
+					&lt;div id="widgetVideo" class="widget widget-exclusive"&gt;
+					
+					&lt;div class="widget-header more-info"&gt;
+	                	&lt;h4&gt;POLITICO Video&lt;/h4&gt;
+	                    &lt;a href="http://www.politico.com/multimedia/?ml=vi" class="more-link" title="View More"&gt;View More&lt;/a&gt;
+	                &lt;/div&gt;
+					
+					&lt;div class="widget-content"&gt;
+						
+		                	&lt;ul class="video-list-large"&gt;
+		                			
+		                    	&lt;li&gt;
+		                    		
+										&lt;a href="http://www.politico.com/multimedia/video/2014/01/mainstream-medias-mixed-response-to-christie-controversy.html?ml=vi_1" class="thumbnail video-overlay"&gt;
+                            			&lt;img alt="" src="http://images.politico.com/global/2014/01/10/140110_christie_media_mmbox.jpg"  /&gt;
+                               			&lt;span class="video-overlay-button"&gt;Play Video&lt;/span&gt;
+										
+		                            &lt;a href="http://www.politico.com/multimedia/video/2014/01/mainstream-medias-mixed-response-to-christie-controversy.html?ml=vi_1"&gt;&lt;strong&gt;ON MEDIA: &lt;/strong&gt; Mixed Christie responses &lt;/a&gt;
+		                        &lt;/li&gt;
+		                    &lt;/ul&gt;
+						
+		                    &lt;ul class="video-list"&gt;
+		                    		
+			                    	&lt;li&gt;
+			                    		
+			                        		&lt;a href="http://www.politico.com/story/2014/01/chris-christie-101928.html?ml=vi_2" class="thumbnail"&gt;&lt;img alt="" src="http://images.politico.com/global/2014/01/09/140109_christie_mmbox.jpg"  /&gt;&lt;/a&gt;
+										
+			                            &lt;a href="http://www.politico.com/story/2014/01/chris-christie-101928.html?ml=vi_2"&gt;&lt;strong&gt;BRIDGEGATE: &lt;/strong&gt; Timeline of controversy &lt;/a&gt;
+			                        &lt;/li&gt;
+								
+			                    	&lt;li&gt;
+			                    		
+			                        		&lt;a href="http://www.politico.com/story/2014/01/podcast-101990.html?ml=vi_3" class="thumbnail"&gt;&lt;img alt="" src="http://images.politico.com/global/2014/01/07/140107_polarvortex_605_ap.jpg"  /&gt;&lt;/a&gt;
+										
+			                            &lt;a href="http://www.politico.com/story/2014/01/podcast-101990.html?ml=vi_3"&gt;&lt;strong&gt;WEEK IN REVIEW:&lt;/strong&gt; POLITICO Podcast&lt;/a&gt;
+			                        &lt;/li&gt;
+								
+			                    	&lt;li&gt;
+			                    		
+			                        		&lt;a href="http://www.politico.com/story/2013/10/politico-playback-97676.html?ml=vi_4" class="thumbnail"&gt;&lt;img alt="" src="http://images.politico.com/global/2014/01/09/140109_playback_mmbox.jpg"  /&gt;&lt;/a&gt;
+										
+			                            &lt;a href="http://www.politico.com/story/2013/10/politico-playback-97676.html?ml=vi_4"&gt;&lt;strong&gt;PLAYBACK:&lt;/strong&gt; Best of Christie jokes &lt;/a&gt;
+			                        &lt;/li&gt;
+								
+		                    &lt;/ul&gt;
+							
+	                &lt;/div&gt;
+					
+					&lt;div class="widget-footer"&gt;
+				    	&lt;ul class="supplementary-tools"&gt;
+				        	&lt;li class="first"&gt;&lt;a href="http://www.politico.com/multimedia/?ml=vi"&gt;See All &lt;strong&gt;Videos &raquo;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+				        &lt;/ul&gt;
+				    &lt;/div&gt;
+						
+					
+					&lt;/div&gt;&lt;!--/widgetVideo--&gt;
+				
+					&lt;div id="widgetPopularStories" class="widget widget-exclusive"&gt;			
+						 &lt;div class="widget-header"&gt; &lt;h4&gt;Popular &lt;b&gt;on POLITICO&lt;/b&gt;&lt;/h4&gt; &lt;/div&gt; &lt;div class="widget-content"&gt; &lt;div class="widget-tabs"&gt; &lt;ul class="widget-tabs-nav"&gt; &lt;li class="first"&gt;&lt;a href="#popularStoriesBlogs"&gt;Stories/Blogs&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#popularVideos"&gt;Videos&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#popularPhotoGalleries"&gt;Photo Galleries&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div id="popularStoriesBlogs"&gt; &lt;div class="widget-subtabs"&gt; &lt;ul class="widget-subtabs-nav"&gt; &lt;li&gt;&lt;a href="#popularStoriesBlogs1"&gt;Trending Now&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#popularStoriesBlogs2"&gt;Last 24 Hours&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#popularStoriesBlogs3"&gt;Last 7 Days&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div id="popularStoriesBlogs1"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 4:22 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list incremented"&gt; &lt;li&gt; &lt;h5 class="increment"&gt;1&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/chris-christie-bridgegate-questions-102066.html?ml=po_r"&gt;The unanswered 'Bridgegate' questions&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;2&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/california-minimum-wage-ron-unz-102064.html?ml=po_r"&gt;Millionaire GOP-er backs wage boost&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;3&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/paul-lepage-maine-governor-crazy-101923.html?ml=po_r"&gt;Meet America's craziest governor&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;4&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/new-jersey-chris-christie-virginia-bob-mcdonnell-republican-governors-scandal-102054.html?ml=po_r"&gt;The GOP's tarnished golden boys&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;5&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/15-chris-christie-controversies-you-missed-101999.html?ml=po_r"&gt;15 Christie controversies you missed&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;6&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/terry-mcauliffe-virginia-governor-inauguration-102061.html?ml=po_r"&gt;McAuliffe offers olive branch to GOP&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;7&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/meghan-mccain-television-show-102063.html?ml=po_r"&gt;Meghan McCain gets nightly TV show&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;8&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/the-pentagons-angry-old-man-102046.html?ml=po_r"&gt;The Pentagon's grumpy old man&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;9&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/hillary-clinton-women-book-102065.html?ml=po_r"&gt;Clinton: Clock 'turning back' for women in U.S.&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;10&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/blogs/politico-live/2014/01/mccain-gates-should-have-waited-181043.html?ml=po_r"&gt;McCain: Gates should have waited&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;div id="popularStoriesBlogs2"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 1:46 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list incremented"&gt; &lt;li&gt; &lt;h5 class="increment"&gt;1&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/new-jersey-chris-christie-virginia-bob-mcdonnell-republican-governors-scandal-102054.html?ml=po_r"&gt;The GOP's tarnished golden boys&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;2&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/chris-christie-bridge-scandal-documents-102031.html?ml=po_r"&gt;Docs show scramble over bridge flap&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;3&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/15-chris-christie-controversies-you-missed-101999.html?ml=po_r"&gt;15 Christie controversies you missed&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;4&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/chris-christie-bridgegate-questions-102066.html?ml=po_r"&gt;The unanswered 'Bridgegate' questions&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;5&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/california-minimum-wage-ron-unz-102064.html?ml=po_r"&gt;Millionaire GOP-er backs wage boost&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;6&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/the-pentagons-angry-old-man-102046.html?ml=po_r"&gt;The Pentagon's grumpy old man&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;7&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/terry-mcauliffe-virginia-governor-inauguration-102061.html?ml=po_r"&gt;McAuliffe offers olive branch to GOP&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;8&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/roscoe-bartlett-congressman-off-the-grid-101720.html?ml=po_r"&gt;A congressman who went off the grid&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;9&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/david-wildstein-chris-christie-scandal-101992.html?ml=po_r"&gt;My time with scandal-hit Christie aide&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;10&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/paul-lepage-maine-governor-crazy-101923.html?ml=po_r"&gt;Meet America's craziest governor&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;div id="popularStoriesBlogs3"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 12:34 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list incremented"&gt; &lt;li&gt; &lt;h5 class="increment"&gt;1&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/roscoe-bartlett-congressman-off-the-grid-101720.html?ml=po_r"&gt;A congressman who went off the grid&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;2&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/hillary-clinton-2016-shadow-campaign-101762.html?ml=po_r"&gt;Hillary Clinton's shadow campaign&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;3&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/tom-coburn-cancer-101941.html?ml=po_r"&gt;Coburn fights cancer again&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;4&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/liz-cheney-wyoming-senate-race-101767.html?ml=po_r"&gt;Cheney: 'I have decided to discontinue my campaign'&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;5&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/midterm-elections-republicans-really-could-win-2014-101802.html?ml=po_r"&gt;Why the GOP could win it all in 2014&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;6&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/david-wildstein-chris-christie-scandal-101992.html?ml=po_r"&gt;My time with scandal-hit Christie aide&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;7&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/story/2014/01/paul-lepage-maine-governor-crazy-101923.html?ml=po_r"&gt;Meet America's craziest governor&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;8&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/story/2014/01/fort-lee-mayor-mark-sokolich-new-jersey-governor-chris-christie-george-washington-bridge-101927.html?ml=po_r"&gt;Mayor to Christie: 'Don't call me'&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li&gt; &lt;h5 class="increment"&gt;9&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/blogs/politico-live/2014/01/romney-accepts-msnbc-apology-180565.html?ml=po_r"&gt;Romney accepts MSNBC apology&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;h5 class="increment"&gt;10&lt;/h5&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/blogs/under-the-radar/2014/01/feds-move-to-block-discovery-in-nsa-lawsuit-180857.html?ml=po_r"&gt;Feds move to block discovery in NSA lawsuits&lt;/a&gt;&lt;/h6&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;/div&gt;&lt;!--.widget-subtabs--&gt; &lt;/div&gt; &lt;div id="popularVideos"&gt; &lt;div class="widget-subtabs"&gt; &lt;ul class="widget-subtabs-nav"&gt; &lt;li&gt;&lt;a href="#popularVideos1"&gt;Trending Now&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#popularVideos2"&gt;Last 24 Hours&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#popularVideos3"&gt;Last 7 Days&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div id="popularVideos1"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 4:26 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list with-media"&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/week-in-playback-chris-christie-dennis-rodman.html?ml=po_v"&gt;Week in Playback: Chris Christie, Dennis Rodman&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/mainstream-medias-mixed-response-to-christie-controversy.html?ml=po_v"&gt;Mainstream media's mixed response to Christie controversy&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/reince-priebus-on-hillary-clinton-scandal-surrounds-her.html?ml=po_v"&gt;Reince Priebus on Hillary Clinton: 'Scandal surrounds her'&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/rand-paul-flies-birthday-gift-drone-on-fox.html?ml=po_v"&gt;Rand Paul flies birthday gift drone on Fox&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/sunday-shows-in-90-seconds-gates-memoir.html?ml=po_v"&gt;Sunday shows in 90 seconds: Gates memoir&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;div id="popularVideos2"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 2:00 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list with-media"&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/week-in-playback-chris-christie-dennis-rodman.html?ml=po_v"&gt;Week in Playback: Chris Christie, Dennis Rodman&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/mainstream-medias-mixed-response-to-christie-controversy.html?ml=po_v"&gt;Mainstream media's mixed response to Christie controversy&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/week-in-review-christie-tries-to-avoid-political-pile-up.html?ml=po_v"&gt;Week in review: Christie tries to avoid political pile-up&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/bill-de-blasio-bridge-lane-closures-immoral.html?ml=po_v"&gt;Bill de Blasio: Bridge lane closures 'immoral'&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/reince-priebus-on-hillary-clinton-scandal-surrounds-her.html?ml=po_v"&gt;Reince Priebus on Hillary Clinton: 'Scandal surrounds her'&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;div id="popularVideos3"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 12:38 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list with-media"&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/mainstream-medias-mixed-response-to-christie-controversy.html?ml=po_v"&gt;Mainstream media's mixed response to Christie controversy&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/hillary-clinton-running-1-3-14.html?ml=po_v"&gt;The Hillary chorus&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/week-in-playback-chris-christie-dennis-rodman.html?ml=po_v"&gt;Week in Playback: Chris Christie, Dennis Rodman&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2014/01/sunday-shows-in-90-seconds.html?ml=po_v"&gt;Sunday Shows in 90 Seconds&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/multimedia/video/2013/12/martin-bashirs-sarah-palin-comment.html?ml=po_v"&gt;Martin Bashir's Sarah Palin comment&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div id="popularPhotoGalleries"&gt; &lt;div class="widget-subtabs"&gt; &lt;ul class="widget-subtabs-nav"&gt; &lt;li&gt;&lt;a href="#popularPhotoGalleries1"&gt;Trending Now&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#popularPhotoGalleries2"&gt;Last 24 Hours&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="#popularPhotoGalleries3"&gt;Last 7 Days&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;div id="popularPhotoGalleries1"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 4:30 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list with-media"&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/gallery/2014/01/this-is-what-solitary-confinement-does-to-your-face/001562-022211.html?ml=po_g"&gt;This Is What Solitary Confinement Does to Your Face&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2014/01/terry-mcauliffe-inauguration/001565-022236.html?ml=po_g"&gt;Terry McAuliffe inauguration&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2012/07/chris-christies-career/000291-003787.html?ml=po_g"&gt;Chris Christie's career&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2014/01/whos-who-in-the-chris-christie-bridge-flap/001563-022214.html?ml=po_g"&gt;Who's who in the Chris Christie bridge scandal&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/gallery/2013/12/18-photographs-that-will-change-your-view-of-washington/001537-021763.html?ml=po_g"&gt;18 Photographs That Will Change Your View of Washington&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;div id="popularPhotoGalleries2"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 2:04 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list with-media"&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/gallery/2014/01/this-is-what-solitary-confinement-does-to-your-face/001562-022211.html?ml=po_g"&gt;This Is What Solitary Confinement Does to Your Face&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/gallery/2013/12/18-photographs-that-will-change-your-view-of-washington/001537-021763.html?ml=po_g"&gt;18 Photographs That Will Change Your View of Washington&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2014/01/terry-mcauliffe-inauguration/001565-022236.html?ml=po_g"&gt;Terry McAuliffe inauguration&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2014/01/the-week-in-photos-jan-6-12/001554-022087.html?ml=po_g"&gt;The week in photos, Jan. 6-12&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2014/01/whos-who-in-the-chris-christie-bridge-flap/001563-022214.html?ml=po_g"&gt;Who's who in the Chris Christie bridge scandal&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;div id="popularPhotoGalleries3"&gt; &lt;div class="meta-data"&gt; &lt;p&gt;Updated: 1/12/14 1:42 PM EST&lt;/p&gt; &lt;/div&gt; &lt;ol class="story-list with-media"&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/gallery/2014/01/this-is-what-solitary-confinement-does-to-your-face/001562-022211.html?ml=po_g"&gt;This Is What Solitary Confinement Does to Your Face&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2014/01/hillary-clintons-50-influentials/001546-021973.html?ml=po_g"&gt;Hillary Clinton's 50 influentials&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2013/12/obama-familys-hawaii-holiday-vacation/001536-021740.html?ml=po_g"&gt;Obama family's Hawaii holiday vacation&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li class="even"&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/magazine/gallery/2013/12/18-photographs-that-will-change-your-view-of-washington/001537-021763.html?ml=po_g"&gt;18 Photographs That Will Change Your View of Washington&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;li&gt; &lt;div&gt; &lt;h6&gt;&lt;a href="http://www.politico.com/gallery/2014/01/stars-who-might-jump-into-politics/001549-022042.html?ml=po_g"&gt;Stars who might jump into politics&lt;/a&gt;&lt;/h6&gt; &lt;/div&gt; &lt;/li&gt; &lt;/ol&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; 
+					&lt;/div&gt;
+				
+		            &lt;div id="widgetTwitterUnbranded" class="widget widget-unbranded"&gt;
+		                
+		            &lt;/div&gt;&lt;!--/widgetTwitterUnbranded--&gt;
+					
+						&lt;div id="widgetPollitico" class="widget widget-exclusive"&gt;
+					
+			            	&lt;div class="widget-header more-info"&gt;
+			                	&lt;h4&gt;POLLitico&lt;/h4&gt;
+			                    &lt;a href="http://dyn.politico.com/polls/poll_resultsTop10.cfm?ml=ll" class="more-link" title="View More"&gt;View More&lt;/a&gt;
+			                &lt;/div&gt;
+			                &lt;div class="widget-content"&gt;
+			                	&lt;div class="user-question"&gt;
+			                    	&lt;h5&gt;Damage controlled?&lt;/h5&gt;
+			                        &lt;p&gt;Do you think Chris Christie was involved in the bridge scandal?&lt;/p&gt;
+			                    &lt;/div&gt;
+			                	
+			                    &lt;form class="widget-form" name="frmPoll" method="post" action="#"&gt;
+			                        &lt;fieldset class="input-radio"&gt;
+			                            &lt;ul&gt;
+											
+													&lt;li&gt;
+														&lt;input type="radio" name="answer" id="opt1" value="1"  /&gt;
+														&lt;label for="opt1"&gt;No -- I think he is innocent.&lt;/label&gt;
+													&lt;/li&gt;
+												
+													&lt;li&gt;
+														&lt;input type="radio" name="answer" id="opt2" value="2"  /&gt;
+														&lt;label for="opt2"&gt;Yes -- His press conference didn't convince me.&lt;/label&gt;
+													&lt;/li&gt;
+												
+													&lt;li&gt;
+														&lt;input type="radio" name="answer" id="opt3" value="3"  /&gt;
+														&lt;label for="opt3"&gt;I'm not sure.&lt;/label&gt;
+													&lt;/li&gt;
+																		
+			                            &lt;/ul&gt;
+			                        &lt;/fieldset&gt;
+			                        &lt;fieldset class="input-action"&gt;
+			                        	&lt;ul&gt;
+			                            	&lt;li&gt;
+			                                    &lt;input type="submit" value="Vote" class="p-btn" onclick="politico_pollvote();return false;"  /&gt;
+			                                &lt;/li&gt;
+			                            &lt;/ul&gt;
+			                        &lt;/fieldset&gt;
+			                    &lt;/form&gt;
+			                &lt;/div&gt;
+			                &lt;div class="widget-footer"&gt;
+			                	&lt;ul class="supplementary-tools"&gt;
+									&lt;li class="first"&gt;
+									
+										&lt;a href="http://www.politico.com/story/2014/01/new-jersey-republican-governor-chris-christie-george-washingto?ml=ll" target="_blank"&gt;Reference Story&lt;/a&gt;&lt;/li&gt;
+										&lt;li&gt;
+									
+									&lt;a href="javascript:void(window.open('http://dyn.politico.com/polls/poll_voterresults.cfm?uuid=DE9E9A34-AD37-9A45-D406219CF98BAF01&amp;ml=ll','pollWindow','width=370,height=450,scrollbars=no,resizable=yes'));"&gt;View Results&lt;/a&gt;&lt;/li&gt;
+									&lt;li&gt;&lt;a href="http://dyn.politico.com/polls/poll_resultsTop10.cfm?ml=ll"&gt;&lt;strong&gt;Archives&lt;/strong&gt; &raquo;&lt;/a&gt;&lt;/li&gt;
+			                    &lt;/ul&gt;
+			                &lt;/div&gt;
+						
+						&lt;/div&gt;&lt;!--/widgetPollitico--&gt;
+						
+						&lt;div id="widgetCartoons" class="widget widget-exclusive"&gt;
+						
+						  	&lt;div class="widget-header more-info"&gt;
+							 	&lt;h4&gt;Wuerking &lt;b&gt;Drawings&lt;/b&gt;&lt;/h4&gt;
+								&lt;a href="http://www.politico.com/wuerker?ml=wu" class="more-link" title="View More"&gt;View More&lt;/a&gt;
+							 &lt;/div&gt;
+							 &lt;div class="widget-content"&gt;
+							 	&lt;div class="coda-slider-wrapper"&gt;
+								    &lt;div class="coda-slider preload"&gt;
+									   &lt;div class="panel"&gt;
+										  &lt;div class="panel-wrapper"&gt;
+											 &lt;ul class="image-gallery-list"&gt;
+												
+			                                        			&lt;li&gt;&lt;a href="http://www.politico.com/wuerker/2014/01/january-2014/001551-022183.html?ml=wu" target="_blank"&gt;&lt;img width="77" height="77" alt="" src="http://images.politico.com/global/2014/01/09/wuc140109_132.jpg"  /&gt;&lt;/a&gt;&lt;/li&gt;
+												
+			                                        			&lt;li&gt;&lt;a href="http://www.politico.com/wuerker/2014/01/january-2014/001551-022115.html?ml=wu" target="_blank"&gt;&lt;img width="77" height="77" alt="" src="http://images.politico.com/global/2014/01/08/wuc140108_132.jpg"  /&gt;&lt;/a&gt;&lt;/li&gt;
+												
+			                                        			&lt;li&gt;&lt;a href="http://www.politico.com/wuerker/2014/01/january-2014/001551-022069.html?ml=wu" target="_blank"&gt;&lt;img width="77" height="77" alt="" src="http://images.politico.com/global/2014/01/06/140106wuerker_132.jpg"  /&gt;&lt;/a&gt;&lt;/li&gt;
+												
+															&lt;/ul&gt;
+														&lt;/div&gt;
+													&lt;/div&gt;
+													&lt;div class="panel"&gt;
+														&lt;div class="panel-wrapper"&gt;
+															&lt;ul class="image-gallery-list"&gt;
+													
+			                                        			&lt;li&gt;&lt;a href="http://www.politico.com/wuerker/2013/12/2013-the-year-in-wuerker-cartoons/001540-021841.html?ml=wu" target="_blank"&gt;&lt;img width="77" height="77" alt="" src="http://images.politico.com/global/2013/12/23/wuc1303041_132.jpg"  /&gt;&lt;/a&gt;&lt;/li&gt;
+												
+			                                        			&lt;li&gt;&lt;a href="http://www.politico.com/wuerker/2013/12/2013-the-year-in-wuerker-cartoons/001540-021839.html?ml=wu" target="_blank"&gt;&lt;img width="77" height="77" alt="" src="http://images.politico.com/global/2013/12/23/wuc1302211_132.jpg"  /&gt;&lt;/a&gt;&lt;/li&gt;
+												
+			                                        			&lt;li&gt;&lt;a href="http://www.politico.com/wuerker/2013/12/2013-the-year-in-wuerker-cartoons/001540-021840.html?ml=wu" target="_blank"&gt;&lt;img width="77" height="77" alt="" src="http://images.politico.com/global/2013/12/23/wuc1302251_132.jpg"  /&gt;&lt;/a&gt;&lt;/li&gt;
+												
+											 &lt;/ul&gt;
+										  &lt;/div&gt;
+									   &lt;/div&gt;
+								    &lt;/div&gt;
+								&lt;/div&gt;
+							 &lt;/div&gt;
+							 &lt;div class="widget-footer"&gt;
+							 	&lt;ul class="supplementary-tools"&gt;
+									&lt;li class="first"&gt;&lt;a href="http://www.politico.com/wuerker/?ml=wu"&gt;See All &lt;strong&gt;Drawings &raquo;&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+								&lt;/ul&gt;
+							 &lt;/div&gt;
+						
+						&lt;/div&gt;&lt;!--/widgetCartoons--&gt;
+					
+			&lt;!--Start Ad--&gt;
+			&lt;div class="border side-ad"&gt;
+				
+		&lt;!-- begin ad tag --&gt;
+		&lt;script type="text/javascript"&gt;
+		dcCat="null";
+		
+		//&lt;![CDATA[
+		
+		document.write('&lt;script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/elections;dcopt=ist;pos=10;tile=6;sz=1x1;ord='+ord+'?"&gt;&lt;\/script&gt;');
+		
+		&lt;/script&gt;
+		&lt;noscript&gt;&lt;a href="http://ad.doubleclick.net/jump/politico/elections;pos=10;tile=6;sz=1x1;ord=123456789?" target="_blank" &gt;&lt;img src="http://ad.doubleclick.net/ad/politico/elections;pos=10;tile=6;sz=1x1;ord=123456789?" border="0" alt=""  /&gt;&lt;/a&gt;&lt;/noscript&gt;
+		&lt;!--// end ad tag --&gt;
+		
+			&lt;/div&gt;
+		
+
+	&lt;/div&gt;&lt;!--/secondaryContent--&gt;
+	
+				
+		&lt;/div&gt;&lt;!--/.content--&gt;
+	
+ &lt;div id="footer" class="footer"&gt;
+		
+		
+
+		&lt;div class="footer-cols"&gt;
+
+        	&lt;div class="col"&gt;
+            	&lt;h5&gt;News&lt;/h5&gt;
+                &lt;ul&gt;
+                	&lt;li&gt;&lt;a href="http://www.politico.com/"&gt;POLITICO Home&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/magazine/"&gt;Magazine&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/pages/elections/"&gt;Elections&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/congress/"&gt;Congress&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/rogersimon/"&gt;Roger Simon&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/multimedia/"&gt;Video&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politicopro.com/"&gt;POLITICO Pro&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/events/"&gt;Events&lt;/a&gt;&lt;/li&gt;	
+					&lt;li&gt;&lt;a href="http://capitalnewyork.com/"&gt;Capital New York&lt;/a&gt;&lt;/li&gt;				
+                &lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;div class="col"&gt;
+				&lt;h5&gt;Blogs&lt;/h5&gt;
+                 &lt;ul&gt;
+                	&lt;li&gt;&lt;a href="http://www.politico.com/blogs/media/"&gt;Dylan Byers&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/blogs/under-the-radar/"&gt;Josh Gerstein&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/blogs/joe-scarborough/"&gt;Joe Scarborough&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;&lt;!--/.col--&gt;
+
+
+            &lt;div class="col"&gt;
+            	&lt;h5&gt;Tipsheets&lt;/h5&gt;
+                &lt;ul&gt;
+                	&lt;li&gt;&lt;a href="http://www.politico.com/playbook/"&gt;Playbook&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/huddle/"&gt;Huddle&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/politicoinfluence/"&gt;Influence&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/p/magazine/newsletter/"&gt;The Friday Cover&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/morningagriculture/"&gt;Morning Agriculture&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/morningdefense/"&gt;Morning Defense&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/morningeducation/"&gt;Morning Education&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/morningenergy/"&gt;Morning Energy&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/morningmoney/"&gt;Morning Money&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/morningscore/"&gt;Morning Score&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/morningtax/"&gt;Morning Tax&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/morningtech/"&gt;Morning Tech&lt;/a&gt;&lt;/li&gt;
+					
+					&lt;li&gt;&lt;a href="http://www.politico.com/morningtransportation/"&gt;Morning Transportation&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/proreport/"&gt;Pro Report&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/politicopulse/"&gt;Pulse&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/div&gt;&lt;!--/.col--&gt;
+
+            &lt;div class="col"&gt;
+            	&lt;h5&gt;Policy&lt;/h5&gt;
+                &lt;ul&gt;
+                	&lt;li&gt;&lt;a href="http://www.politico.com/agriculture/"&gt;Agriculture&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/defense/"&gt;Defense&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/education/"&gt;Education&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/energy/"&gt;Energy&lt;/a&gt;&lt;/li&gt;
+                	&lt;li&gt;&lt;a href="http://www.politico.com/money/"&gt;Finance&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/healthcare/"&gt;Health Care&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/technology/"&gt;Technology&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/trade/"&gt;Trade&lt;/a&gt;&lt;/li&gt;
+                    &lt;li&gt;&lt;a href="http://www.politico.com/transportation/"&gt;Transportation&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+
+            &lt;/div&gt;&lt;!--/.col--&gt;
+
+            &lt;div class="col col-wide"&gt;
+            	&lt;h5&gt;More Info&lt;/h5&gt;
+                &lt;ul&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/about/"&gt;About&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/about/advertising/"&gt;Advertising&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/headlines/"&gt;Article Archive&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/bookshelf/"&gt;Bookshelf&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://dyn.politico.com/member"&gt;Breaking News Alerts&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/employment/"&gt;Employment&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/faq/"&gt;FAQ&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/aboutus/feedback.html"&gt;Feedback&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/headlines/"&gt;Headlines&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://dyn.politico.com/"&gt;Log in/Register&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+                &lt;ul class="last"&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/mobile-products/"&gt;Mobile POLITICO&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/gallery/"&gt;Photos&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.powerjobs.com"&gt;POWERJobs&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/about/press/"&gt;Press&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/rss/"&gt;RSS / Widgets&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/sitemap/"&gt;Site Map&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/aboutus/"&gt;Staff Bios&lt;/a&gt;&lt;/li&gt;					
+					&lt;li&gt;&lt;a href="http://www.cafepress.com/thepolitico"&gt;Store&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://www.politico.com/subscriptions/"&gt;Subscription&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+            &lt;/div&gt;&lt;!--/.col--&gt;
+        &lt;/div&gt;&lt;!--/.footer-cols--&gt;
+
+        &lt;div class="site-info"&gt;
+
+        	&lt;span&gt;&copy; 2014 POLITICO LLC&lt;/span&gt;
+            &lt;ul&gt;
+            	&lt;li&gt;&lt;a href="http://www.politico.com/termsofservice/"&gt;Terms of Service&lt;/a&gt;&lt;/li&gt;
+                &lt;li class="last"&gt;&lt;a href="http://www.politico.com/privacy/"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;img src="http://images.politico.com/global/v2/shadowright.gif" width="0" height="0" alt=""  /&gt;
+    &lt;/div&gt; &lt;!--//footer--&gt;
+&lt;!--PubMatic Universal Pixel tag (Javascript)
+http://www.politico.com/HPTags--&gt;
+&lt;script type='text/javascript'&gt;	
+var pubId=27180;
+var pixId=41; 
+&lt;/script&gt;
+&lt;script src='http://ads.pubmatic.com/AdServer/js/universalpixel.js'
+type='text/javascript'&gt;
+&lt;/script&gt;
+
+&lt;!-- Start Quantcast tag --&gt;
+&lt;script type="text/javascript"&gt;
+_qoptions={
+qacct:"p-7bhLrd63bC8jI"
+};
+&lt;/script&gt;
+&lt;script type="text/javascript" src="http://edge.quantserve.com/quant.js"&gt;&lt;/script&gt;
+&lt;noscript&gt;
+&lt;div&gt;&lt;a href="http://www.quantcast.com/p-7bhLrd63bC8jI" target="_blank"&gt;&lt;img src="http://pixel.quantserve.com/pixel/p-7bhLrd63bC8jI.gif" style="display: none;" border="0" height="0" width="0" alt="Quantcast"  /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/noscript&gt;
+&lt;!-- End Quantcast tag --&gt; &lt;!--POL-DYN2-INSTANCE3 {ts '2014-01-12 16:48:01'}--&gt; 
+			&lt;script type="text/javascript" src="//platform.twitter.com/widgets.js"&gt;&lt;/script&gt;
+		
+&lt;/div&gt;&lt;!--/.siteWrapper--&gt;
+
+
+
+
+		&lt;script type="text/javascript"&gt;
+			var _sf_async_config={};
+			/** CONFIGURATION START **/
+			
+					_sf_async_config.uid = "33430";
+				
+					_sf_async_config.path = "/p/pages/elections/";
+				
+					_sf_async_config.domain = "politico.com";
+						
+			/** CONFIGURATION END **/
+			(function(){
+			  function loadChartbeat() {
+			    window._sf_endpt=(new Date()).getTime();
+			    var e = document.createElement("script");
+			    e.setAttribute("language", "javascript");
+			    e.setAttribute("type", "text/javascript");
+			    e.setAttribute("src",
+			       (("https:" == document.location.protocol) ?
+			         "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :
+			         "http://static.chartbeat.com/") +
+			       "js/chartbeat.js");
+			    document.body.appendChild(e);
+			  }
+			  var oldonload = window.onload;
+			  window.onload = (typeof window.onload != "function") ?
+			     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+			})();
+		&lt;/script&gt;
+		
+	&lt;!-- START lotame Include: Standard --&gt;
+	&lt;script type="text/javascript" src="https://tags.crwdcntrl.net/c/2641/cc.js?ns=_cc2641" id="LOTCC_2641"&gt;&lt;/script&gt;
+	&lt;script type="text/javascript" language="javascript"&gt;_cc2641.bcp();&lt;/script&gt;
+	&lt;!-- END lotame Include --&gt;
+
+		&lt;!-- begin ad tag --&gt;
+		&lt;script type="text/javascript"&gt;
+		dcCat="null";
+		ord=Math.random()*10000000000000000;
+		//&lt;![CDATA[
+		document.write('&lt;script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/elections;'+quantSegs+';'+crtg_content+';'+dartCC+';pos=9;tile=9;sz=1x1;ord='+ord+'?"&gt;&lt;\/script&gt;');
+		&lt;/script&gt;
+		&lt;noscript&gt;&lt;a href="http://ad.doubleclick.net/jump/politico/elections;pos=9;tile=9;sz=1x1;ord=123456789?" target="_blank" &gt;&lt;img src="http://ad.doubleclick.net/ad/politico/elections;pos=9;tile=9;sz=1x1;ord=123456789?" border="0" alt=""  /&gt;&lt;/a&gt;&lt;/noscript&gt;
+		&lt;!--// end ad tag --&gt;
+		
+
+&lt;/body&gt;
+&lt;/html&gt;&lt;!--//POLITICO END--&gt;
+ &lt;!--timestamp {ts '2014-01-12 16:48:01'}--&gt; &lt;!--timestamp {ts '2014-01-12 16:48:01'}--&gt;
+       </script>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
