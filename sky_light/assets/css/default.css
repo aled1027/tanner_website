@@ -48,6 +48,11 @@ body {
 .list li {
 }
 
+.list .li .tile {
+	color: purple;
+	background-color: purple;
+}
+
 #slides {
 	display: none;
 }

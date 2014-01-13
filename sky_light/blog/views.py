@@ -20,6 +20,7 @@ def homeView(request):
 	return render(request, "home.html", args)
 
 def articleListView(request):
+	# UNCOMMENT THIS AND CHANGE IT AROUND.. SEE NOTES.TXT
 	addArticlesFromGoose(5)
 	args = {}
 	args.update(csrf(request))

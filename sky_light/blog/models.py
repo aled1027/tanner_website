@@ -6,6 +6,7 @@ from django.core.mail import send_mail
 from taggit.managers import TaggableManager
 from goose import Goose
 import bs4Mod
+import nltk
 
 
 class Article(models.Model):
@@ -43,13 +44,23 @@ def addArticlesFromGoose(numArticles = 5):
 			# check if article/url is valid
 			if not (len(a.cleaned_text) > 0):
 				return
+
+			# make the body summary a manageable size
+			sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
+			sList = sent_detector.tokenize(a.cleaned_text.strip())
+			bodySummary = ""
+			i = 0
+			while len(bodySummary) < 180:
+				bodySummary = bodySummary + sList[i]
+				i = i+1
+
 			# now save it. FIX THIS -- make it a bulked query; see notes.txt
 			new = Article(
 					url = url,
 					title = a.title,
 					source = a.domain, # actually gives www.politico.com eg
 					body = a.cleaned_text,
-					bodySummary = a.cleaned_text[:200],
+					bodySummary = bodySummary,
 					publish_date = a.publish_date,
 					)
 					# FIX THIS -- PARSE TAGS FOR TAGGALBEMANAGER
@@ -58,7 +69,7 @@ def addArticlesFromGoose(numArticles = 5):
 	Article.objects.bulk_create(artList)
 
 class Comment(models.Model):
-	#this needs to be changed to current user
+	# FIX THIS this needs to be changed to current user
 	author = CharField(max_length=60, blank=True)
 	body = TextField()
 	article = ForeignKey(Article, related_name="comments", blank=True, null=True)
@@ -69,7 +80,7 @@ class Comment(models.Model):
 		return u"%s: %s" % (self.article, self.body[:60])
 
 class Rebutt(models.Model):
-	#this needs to be changed to current user
+	# FIX THIS this needs to be changed to current user
 	author = CharField(max_length=60, blank=True)
 	body = TextField()
 	comment = ForeignKey(Comment, related_name="rebutts", blank=True, null=True)
